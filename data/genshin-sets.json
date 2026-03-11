@@ -1,0 +1,304 @@
+{
+  "game": {
+    "id": "genshin",
+    "name": "Genshin Impact"
+  },
+  "kind": "sets",
+  "items": [
+    {
+      "id": 1,
+      "name": "A Day Carved From Rising Winds",
+      "image": "https://i2.wp.com/images.genshin-builds.com/genshin/artifacts/a_day_carved_from_rising_winds.png?strip=all&quality=100&w=94"
+    },
+    {
+      "id": 2,
+      "name": "Adventurer",
+      "image": "https://i2.wp.com/images.genshin-builds.com/genshin/artifacts/adventurer.png?strip=all&quality=100&w=94"
+    },
+    {
+      "id": 3,
+      "name": "Archaic Petra",
+      "image": "https://i2.wp.com/images.genshin-builds.com/genshin/artifacts/archaic_petra.png?strip=all&quality=100&w=94"
+    },
+    {
+      "id": 4,
+      "name": "Aubade of Morningstar and Moon",
+      "image": "https://i2.wp.com/images.genshin-builds.com/genshin/artifacts/aubade_of_morningstar_and_moon.png?strip=all&quality=100&w=94"
+    },
+    {
+      "id": 5,
+      "name": "Berserker",
+      "image": "https://i2.wp.com/images.genshin-builds.com/genshin/artifacts/berserker.png?strip=all&quality=100&w=94"
+    },
+    {
+      "id": 6,
+      "name": "Blizzard Strayer",
+      "image": "https://i2.wp.com/images.genshin-builds.com/genshin/artifacts/blizzard_strayer.png?strip=all&quality=100&w=94"
+    },
+    {
+      "id": 7,
+      "name": "Bloodstained Chivalry",
+      "image": "https://i2.wp.com/images.genshin-builds.com/genshin/artifacts/bloodstained_chivalry.png?strip=all&quality=100&w=94"
+    },
+    {
+      "id": 8,
+      "name": "Brave Heart",
+      "image": "https://i2.wp.com/images.genshin-builds.com/genshin/artifacts/brave_heart.png?strip=all&quality=100&w=94"
+    },
+    {
+      "id": 9,
+      "name": "Crimson Witch of Flames",
+      "image": "https://i2.wp.com/images.genshin-builds.com/genshin/artifacts/crimson_witch_of_flames.png?strip=all&quality=100&w=94"
+    },
+    {
+      "id": 10,
+      "name": "Deepwood Memories",
+      "image": "https://i2.wp.com/images.genshin-builds.com/genshin/artifacts/deepwood_memories.png?strip=all&quality=100&w=94"
+    },
+    {
+      "id": 11,
+      "name": "Defender's Will",
+      "image": "https://i2.wp.com/images.genshin-builds.com/genshin/artifacts/defenders_will.png?strip=all&quality=100&w=94"
+    },
+    {
+      "id": 12,
+      "name": "Desert Pavilion Chronicle",
+      "image": "https://i2.wp.com/images.genshin-builds.com/genshin/artifacts/desert_pavilion_chronicle.png?strip=all&quality=100&w=94"
+    },
+    {
+      "id": 13,
+      "name": "Echoes of an Offering",
+      "image": "https://i2.wp.com/images.genshin-builds.com/genshin/artifacts/echoes_of_an_offering.png?strip=all&quality=100&w=94"
+    },
+    {
+      "id": 14,
+      "name": "Emblem of Severed Fate",
+      "image": "https://i2.wp.com/images.genshin-builds.com/genshin/artifacts/emblem_of_severed_fate.png?strip=all&quality=100&w=94"
+    },
+    {
+      "id": 15,
+      "name": "Finale of the Deep Galleries",
+      "image": "https://i2.wp.com/images.genshin-builds.com/genshin/artifacts/finale_of_the_deep_galleries.png?strip=all&quality=100&w=94"
+    },
+    {
+      "id": 16,
+      "name": "Flower of Paradise Lost",
+      "image": "https://i2.wp.com/images.genshin-builds.com/genshin/artifacts/flower_of_paradise_lost.png?strip=all&quality=100&w=94"
+    },
+    {
+      "id": 17,
+      "name": "Fragment of Harmonic Whimsy",
+      "image": "https://i2.wp.com/images.genshin-builds.com/genshin/artifacts/fragment_of_harmonic_whimsy.png?strip=all&quality=100&w=94"
+    },
+    {
+      "id": 18,
+      "name": "Gambler",
+      "image": "https://i2.wp.com/images.genshin-builds.com/genshin/artifacts/gambler.png?strip=all&quality=100&w=94"
+    },
+    {
+      "id": 19,
+      "name": "Gilded Dreams",
+      "image": "https://i2.wp.com/images.genshin-builds.com/genshin/artifacts/gilded_dreams.png?strip=all&quality=100&w=94"
+    },
+    {
+      "id": 20,
+      "name": "Gladiator's Finale",
+      "image": "https://i2.wp.com/images.genshin-builds.com/genshin/artifacts/gladiators_finale.png?strip=all&quality=100&w=94"
+    },
+    {
+      "id": 21,
+      "name": "Golden Troupe",
+      "image": "https://i2.wp.com/images.genshin-builds.com/genshin/artifacts/golden_troupe.png?strip=all&quality=100&w=94"
+    },
+    {
+      "id": 22,
+      "name": "Heart of Depth",
+      "image": "https://i2.wp.com/images.genshin-builds.com/genshin/artifacts/heart_of_depth.png?strip=all&quality=100&w=94"
+    },
+    {
+      "id": 23,
+      "name": "Husk of Opulent Dreams",
+      "image": "https://i2.wp.com/images.genshin-builds.com/genshin/artifacts/husk_of_opulent_dreams.png?strip=all&quality=100&w=94"
+    },
+    {
+      "id": 24,
+      "name": "Instructor",
+      "image": "https://i2.wp.com/images.genshin-builds.com/genshin/artifacts/instructor.png?strip=all&quality=100&w=94"
+    },
+    {
+      "id": 25,
+      "name": "Lavawalker",
+      "image": "https://i2.wp.com/images.genshin-builds.com/genshin/artifacts/lavawalker.png?strip=all&quality=100&w=94"
+    },
+    {
+      "id": 26,
+      "name": "Long Night's Oath",
+      "image": "https://i2.wp.com/images.genshin-builds.com/genshin/artifacts/long_nights_oath.png?strip=all&quality=100&w=94"
+    },
+    {
+      "id": 27,
+      "name": "Lucky Dog",
+      "image": "https://i2.wp.com/images.genshin-builds.com/genshin/artifacts/lucky_dog.png?strip=all&quality=100&w=94"
+    },
+    {
+      "id": 28,
+      "name": "Maiden Beloved",
+      "image": "https://i2.wp.com/images.genshin-builds.com/genshin/artifacts/maiden_beloved.png?strip=all&quality=100&w=94"
+    },
+    {
+      "id": 29,
+      "name": "Marechaussee Hunter",
+      "image": "https://i2.wp.com/images.genshin-builds.com/genshin/artifacts/marechaussee_hunter.png?strip=all&quality=100&w=94"
+    },
+    {
+      "id": 30,
+      "name": "Martial Artist",
+      "image": "https://i2.wp.com/images.genshin-builds.com/genshin/artifacts/martial_artist.png?strip=all&quality=100&w=94"
+    },
+    {
+      "id": 31,
+      "name": "Night of the Sky's Unveiling",
+      "image": "https://i2.wp.com/images.genshin-builds.com/genshin/artifacts/night_of_the_skys_unveiling.png?strip=all&quality=100&w=94"
+    },
+    {
+      "id": 32,
+      "name": "Nighttime Whispers in the Echoing Woods",
+      "image": "https://i2.wp.com/images.genshin-builds.com/genshin/artifacts/nighttime_whispers_in_the_echoing_woods.png?strip=all&quality=100&w=94"
+    },
+    {
+      "id": 33,
+      "name": "Noblesse Oblige",
+      "image": "https://i2.wp.com/images.genshin-builds.com/genshin/artifacts/noblesse_oblige.png?strip=all&quality=100&w=94"
+    },
+    {
+      "id": 34,
+      "name": "Nymph's Dream",
+      "image": "https://i2.wp.com/images.genshin-builds.com/genshin/artifacts/nymphs_dream.png?strip=all&quality=100&w=94"
+    },
+    {
+      "id": 35,
+      "name": "Obsidian Codex",
+      "image": "https://i2.wp.com/images.genshin-builds.com/genshin/artifacts/obsidian_codex.png?strip=all&quality=100&w=94"
+    },
+    {
+      "id": 36,
+      "name": "Ocean-Hued Clam",
+      "image": "https://i2.wp.com/images.genshin-builds.com/genshin/artifacts/oceanhued_clam.png?strip=all&quality=100&w=94"
+    },
+    {
+      "id": 37,
+      "name": "Pale Flame",
+      "image": "https://i2.wp.com/images.genshin-builds.com/genshin/artifacts/pale_flame.png?strip=all&quality=100&w=94"
+    },
+    {
+      "id": 38,
+      "name": "Prayers for Destiny",
+      "image": "https://i2.wp.com/images.genshin-builds.com/genshin/artifacts/prayers_for_destiny.png?strip=all&quality=100&w=94"
+    },
+    {
+      "id": 39,
+      "name": "Prayers for Illumination",
+      "image": "https://i2.wp.com/images.genshin-builds.com/genshin/artifacts/prayers_for_illumination.png?strip=all&quality=100&w=94"
+    },
+    {
+      "id": 40,
+      "name": "Prayers for Wisdom",
+      "image": "https://i2.wp.com/images.genshin-builds.com/genshin/artifacts/prayers_for_wisdom.png?strip=all&quality=100&w=94"
+    },
+    {
+      "id": 41,
+      "name": "Prayers to Springtime",
+      "image": "https://i2.wp.com/images.genshin-builds.com/genshin/artifacts/prayers_to_springtime.png?strip=all&quality=100&w=94"
+    },
+    {
+      "id": 42,
+      "name": "Resolution of Sojourner",
+      "image": "https://i2.wp.com/images.genshin-builds.com/genshin/artifacts/resolution_of_sojourner.png?strip=all&quality=100&w=94"
+    },
+    {
+      "id": 43,
+      "name": "Retracing Bolide",
+      "image": "https://i2.wp.com/images.genshin-builds.com/genshin/artifacts/retracing_bolide.png?strip=all&quality=100&w=94"
+    },
+    {
+      "id": 44,
+      "name": "Scholar",
+      "image": "https://i2.wp.com/images.genshin-builds.com/genshin/artifacts/scholar.png?strip=all&quality=100&w=94"
+    },
+    {
+      "id": 45,
+      "name": "Scroll of the Hero of Cinder City",
+      "image": "https://i2.wp.com/images.genshin-builds.com/genshin/artifacts/scroll_of_the_hero_of_cinder_city.png?strip=all&quality=100&w=94"
+    },
+    {
+      "id": 46,
+      "name": "Shimenawa's Reminiscence",
+      "image": "https://i2.wp.com/images.genshin-builds.com/genshin/artifacts/shimenawas_reminiscence.png?strip=all&quality=100&w=94"
+    },
+    {
+      "id": 47,
+      "name": "Silken Moon's Serenade",
+      "image": "https://i2.wp.com/images.genshin-builds.com/genshin/artifacts/silken_moons_serenade.png?strip=all&quality=100&w=94"
+    },
+    {
+      "id": 48,
+      "name": "Song of Days Past",
+      "image": "https://i2.wp.com/images.genshin-builds.com/genshin/artifacts/song_of_days_past.png?strip=all&quality=100&w=94"
+    },
+    {
+      "id": 49,
+      "name": "Tenacity of the Millelith",
+      "image": "https://i2.wp.com/images.genshin-builds.com/genshin/artifacts/tenacity_of_the_millelith.png?strip=all&quality=100&w=94"
+    },
+    {
+      "id": 50,
+      "name": "The Exile",
+      "image": "https://i2.wp.com/images.genshin-builds.com/genshin/artifacts/the_exile.png?strip=all&quality=100&w=94"
+    },
+    {
+      "id": 51,
+      "name": "Thundering Fury",
+      "image": "https://i2.wp.com/images.genshin-builds.com/genshin/artifacts/thundering_fury.png?strip=all&quality=100&w=94"
+    },
+    {
+      "id": 52,
+      "name": "Thundersoother",
+      "image": "https://i2.wp.com/images.genshin-builds.com/genshin/artifacts/thundersoother.png?strip=all&quality=100&w=94"
+    },
+    {
+      "id": 53,
+      "name": "Tiny Miracle",
+      "image": "https://i2.wp.com/images.genshin-builds.com/genshin/artifacts/tiny_miracle.png?strip=all&quality=100&w=94"
+    },
+    {
+      "id": 54,
+      "name": "Traveling Doctor",
+      "image": "https://i2.wp.com/images.genshin-builds.com/genshin/artifacts/traveling_doctor.png?strip=all&quality=100&w=94"
+    },
+    {
+      "id": 55,
+      "name": "Unfinished Reverie",
+      "image": "https://i2.wp.com/images.genshin-builds.com/genshin/artifacts/unfinished_reverie.png?strip=all&quality=100&w=94"
+    },
+    {
+      "id": 56,
+      "name": "Vermillion Hereafter",
+      "image": "https://i2.wp.com/images.genshin-builds.com/genshin/artifacts/vermillion_hereafter.png?strip=all&quality=100&w=94"
+    },
+    {
+      "id": 57,
+      "name": "Viridescent Venerer",
+      "image": "https://i2.wp.com/images.genshin-builds.com/genshin/artifacts/viridescent_venerer.png?strip=all&quality=100&w=94"
+    },
+    {
+      "id": 58,
+      "name": "Vourukasha's Glow",
+      "image": "https://i2.wp.com/images.genshin-builds.com/genshin/artifacts/vourukashas_glow.png?strip=all&quality=100&w=94"
+    },
+    {
+      "id": 59,
+      "name": "Wanderer's Troupe",
+      "image": "https://i2.wp.com/images.genshin-builds.com/genshin/artifacts/wanderers_troupe.png?strip=all&quality=100&w=94"
+    }
+  ]
+}

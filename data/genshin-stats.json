@@ -1,0 +1,123 @@
+{
+  "game": {
+    "id": "genshin",
+    "name": "Genshin Impact"
+  },
+  "kind": "stats",
+  "items": [
+    {
+      "id": 1,
+      "name": "HP Plano",
+      "short": "HP",
+      "tone": "hp"
+    },
+    {
+      "id": 2,
+      "name": "ATQ Plano",
+      "short": "ATK",
+      "tone": "atk"
+    },
+    {
+      "id": 3,
+      "name": "DEF Plano",
+      "short": "DEF",
+      "tone": "def"
+    },
+    {
+      "id": 4,
+      "name": "HP%",
+      "short": "HP%",
+      "tone": "hp"
+    },
+    {
+      "id": 5,
+      "name": "ATQ%",
+      "short": "ATK%",
+      "tone": "atk"
+    },
+    {
+      "id": 6,
+      "name": "DEF%",
+      "short": "DEF%",
+      "tone": "def"
+    },
+    {
+      "id": 7,
+      "name": "Prob. CRIT",
+      "short": "CR",
+      "tone": "crit"
+    },
+    {
+      "id": 8,
+      "name": "Daño CRIT",
+      "short": "CD",
+      "tone": "crit"
+    },
+    {
+      "id": 9,
+      "name": "Recarga de Energía",
+      "short": "ER",
+      "tone": "energy"
+    },
+    {
+      "id": 10,
+      "name": "Maestría Elemental",
+      "short": "EM",
+      "tone": "mastery"
+    },
+    {
+      "id": 11,
+      "name": "Bono de Curación",
+      "short": "HB",
+      "tone": "healing"
+    },
+    {
+      "id": 12,
+      "name": "Bono de Daño Físico",
+      "short": "PH",
+      "tone": "physical"
+    },
+    {
+      "id": 13,
+      "name": "Bono de Daño Pyro",
+      "short": "PY",
+      "tone": "pyro"
+    },
+    {
+      "id": 14,
+      "name": "Bono de Daño Hydro",
+      "short": "HY",
+      "tone": "hydro"
+    },
+    {
+      "id": 15,
+      "name": "Bono de Daño Electro",
+      "short": "EL",
+      "tone": "electro"
+    },
+    {
+      "id": 16,
+      "name": "Bono de Daño Cryo",
+      "short": "CY",
+      "tone": "cryo"
+    },
+    {
+      "id": 17,
+      "name": "Bono de Daño Geo",
+      "short": "GE",
+      "tone": "geo"
+    },
+    {
+      "id": 18,
+      "name": "Bono de Daño Anemo",
+      "short": "AN",
+      "tone": "anemo"
+    },
+    {
+      "id": 19,
+      "name": "Bono de Daño Dendro",
+      "short": "DE",
+      "tone": "dendro"
+    }
+  ]
+}

@@ -1,0 +1,2012 @@
+{
+  "game": {
+    "id": "genshin",
+    "name": "Genshin Impact"
+  },
+  "source": "Genshin Impact",
+  "characters": [
+    {
+      "id": "varka",
+      "name": "Varka",
+      "role": "5*",
+      "rarity": 5,
+      "rarityLabel": "5*",
+      "releaseOrder": 114,
+      "source": "https://genshin-builds.com/en/character/varka",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/varka/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/varka/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Anemo"
+      },
+      "builds": []
+    },
+    {
+      "id": "zibai",
+      "name": "Zibai",
+      "role": "5*",
+      "rarity": 5,
+      "rarityLabel": "5*",
+      "releaseOrder": 113,
+      "source": "https://genshin-builds.com/en/character/zibai",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/zibai/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/zibai/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Geo"
+      },
+      "builds": []
+    },
+    {
+      "id": "illuga",
+      "name": "Illuga",
+      "role": "4*",
+      "rarity": 4,
+      "rarityLabel": "4*",
+      "releaseOrder": 112,
+      "source": "https://genshin-builds.com/en/character/illuga",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/illuga/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/illuga/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Geo"
+      },
+      "builds": []
+    },
+    {
+      "id": "columbina",
+      "name": "Columbina",
+      "role": "5*",
+      "rarity": 5,
+      "rarityLabel": "5*",
+      "releaseOrder": 111,
+      "source": "https://genshin-builds.com/en/character/columbina",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/columbina/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/columbina/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Hydro"
+      },
+      "builds": []
+    },
+    {
+      "id": "jahoda",
+      "name": "Jahoda",
+      "role": "4*",
+      "rarity": 4,
+      "rarityLabel": "4*",
+      "releaseOrder": 110,
+      "source": "https://genshin-builds.com/en/character/jahoda",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/jahoda/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/jahoda/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Anemo"
+      },
+      "builds": []
+    },
+    {
+      "id": "durin",
+      "name": "Durin",
+      "role": "5*",
+      "rarity": 5,
+      "rarityLabel": "5*",
+      "releaseOrder": 109,
+      "source": "https://genshin-builds.com/en/character/durin",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/durin/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/durin/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Pyro"
+      },
+      "builds": []
+    },
+    {
+      "id": "nefer",
+      "name": "Nefer",
+      "role": "5*",
+      "rarity": 5,
+      "rarityLabel": "5*",
+      "releaseOrder": 108,
+      "source": "https://genshin-builds.com/en/character/nefer",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/nefer/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/nefer/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Dendro"
+      },
+      "builds": []
+    },
+    {
+      "id": "manekina",
+      "name": "Manekina",
+      "role": "5*",
+      "rarity": 5,
+      "rarityLabel": "5*",
+      "releaseOrder": 107,
+      "source": "https://genshin-builds.com/en/character/manekina",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/manekina/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/manekina/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Variable"
+      },
+      "builds": []
+    },
+    {
+      "id": "flins",
+      "name": "Flins",
+      "role": "5*",
+      "rarity": 5,
+      "rarityLabel": "5*",
+      "releaseOrder": 105,
+      "source": "https://genshin-builds.com/en/character/flins",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/flins/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/flins/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Electro"
+      },
+      "builds": []
+    },
+    {
+      "id": "lauma",
+      "name": "Lauma",
+      "role": "5*",
+      "rarity": 5,
+      "rarityLabel": "5*",
+      "releaseOrder": 104,
+      "source": "https://genshin-builds.com/en/character/lauma",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/lauma/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/lauma/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Dendro"
+      },
+      "builds": []
+    },
+    {
+      "id": "aino",
+      "name": "Aino",
+      "role": "4*",
+      "rarity": 4,
+      "rarityLabel": "4*",
+      "releaseOrder": 103,
+      "source": "https://genshin-builds.com/en/character/aino",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/aino/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/aino/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Hydro"
+      },
+      "builds": []
+    },
+    {
+      "id": "ineffa",
+      "name": "Ineffa",
+      "role": "5*",
+      "rarity": 5,
+      "rarityLabel": "5*",
+      "releaseOrder": 102,
+      "source": "https://genshin-builds.com/en/character/ineffa",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/ineffa/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/ineffa/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Electro"
+      },
+      "builds": []
+    },
+    {
+      "id": "skirk",
+      "name": "Skirk",
+      "role": "5*",
+      "rarity": 5,
+      "rarityLabel": "5*",
+      "releaseOrder": 101,
+      "source": "https://genshin-builds.com/en/character/skirk",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/skirk/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/skirk/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Cryo"
+      },
+      "builds": []
+    },
+    {
+      "id": "dahlia",
+      "name": "Dahlia",
+      "role": "4*",
+      "rarity": 4,
+      "rarityLabel": "4*",
+      "releaseOrder": 100,
+      "source": "https://genshin-builds.com/en/character/dahlia",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/dahlia/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/dahlia/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Hydro"
+      },
+      "builds": []
+    },
+    {
+      "id": "ifa",
+      "name": "Ifa",
+      "role": "4*",
+      "rarity": 4,
+      "rarityLabel": "4*",
+      "releaseOrder": 99,
+      "source": "https://genshin-builds.com/en/character/ifa",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/ifa/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/ifa/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Anemo"
+      },
+      "builds": []
+    },
+    {
+      "id": "escoffier",
+      "name": "Escoffier",
+      "role": "5*",
+      "rarity": 5,
+      "rarityLabel": "5*",
+      "releaseOrder": 98,
+      "source": "https://genshin-builds.com/en/character/escoffier",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/escoffier/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/escoffier/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Cryo"
+      },
+      "builds": []
+    },
+    {
+      "id": "varesa",
+      "name": "Varesa",
+      "role": "5*",
+      "rarity": 5,
+      "rarityLabel": "5*",
+      "releaseOrder": 97,
+      "source": "https://genshin-builds.com/en/character/varesa",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/varesa/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/varesa/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Electro"
+      },
+      "builds": []
+    },
+    {
+      "id": "iansan",
+      "name": "Iansan",
+      "role": "4*",
+      "rarity": 4,
+      "rarityLabel": "4*",
+      "releaseOrder": 96,
+      "source": "https://genshin-builds.com/en/character/iansan",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/iansan/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/iansan/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Electro"
+      },
+      "builds": []
+    },
+    {
+      "id": "yumemizuki-mizuki",
+      "name": "Yumemizuki Mizuki",
+      "role": "5*",
+      "rarity": 5,
+      "rarityLabel": "5*",
+      "releaseOrder": 95,
+      "source": "https://genshin-builds.com/en/character/yumemizuki_mizuki",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/yumemizuki_mizuki/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/yumemizuki_mizuki/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Anemo"
+      },
+      "builds": []
+    },
+    {
+      "id": "lan-yan",
+      "name": "Lan Yan",
+      "role": "4*",
+      "rarity": 4,
+      "rarityLabel": "4*",
+      "releaseOrder": 94,
+      "source": "https://genshin-builds.com/en/character/lan_yan",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/lan_yan/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/lan_yan/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Anemo"
+      },
+      "builds": []
+    },
+    {
+      "id": "mavuika",
+      "name": "Mavuika",
+      "role": "5*",
+      "rarity": 5,
+      "rarityLabel": "5*",
+      "releaseOrder": 93,
+      "source": "https://genshin-builds.com/en/character/mavuika",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/mavuika/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/mavuika/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Pyro"
+      },
+      "builds": []
+    },
+    {
+      "id": "citlali",
+      "name": "Citlali",
+      "role": "5*",
+      "rarity": 5,
+      "rarityLabel": "5*",
+      "releaseOrder": 92,
+      "source": "https://genshin-builds.com/en/character/citlali",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/citlali/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/citlali/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Cryo"
+      },
+      "builds": []
+    },
+    {
+      "id": "ororon",
+      "name": "Ororon",
+      "role": "4*",
+      "rarity": 4,
+      "rarityLabel": "4*",
+      "releaseOrder": 91,
+      "source": "https://genshin-builds.com/en/character/ororon",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/ororon/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/ororon/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Electro"
+      },
+      "builds": []
+    },
+    {
+      "id": "chasca",
+      "name": "Chasca",
+      "role": "5*",
+      "rarity": 5,
+      "rarityLabel": "5*",
+      "releaseOrder": 90,
+      "source": "https://genshin-builds.com/en/character/chasca",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/chasca/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/chasca/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Anemo"
+      },
+      "builds": []
+    },
+    {
+      "id": "xilonen",
+      "name": "Xilonen",
+      "role": "5*",
+      "rarity": 5,
+      "rarityLabel": "5*",
+      "releaseOrder": 89,
+      "source": "https://genshin-builds.com/en/character/xilonen",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/xilonen/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/xilonen/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Geo"
+      },
+      "builds": []
+    },
+    {
+      "id": "kinich",
+      "name": "Kinich",
+      "role": "5*",
+      "rarity": 5,
+      "rarityLabel": "5*",
+      "releaseOrder": 88,
+      "source": "https://genshin-builds.com/en/character/kinich",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/kinich/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/kinich/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Dendro"
+      },
+      "builds": []
+    },
+    {
+      "id": "mualani",
+      "name": "Mualani",
+      "role": "5*",
+      "rarity": 5,
+      "rarityLabel": "5*",
+      "releaseOrder": 87,
+      "source": "https://genshin-builds.com/en/character/mualani",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/mualani/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/mualani/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Hydro"
+      },
+      "builds": []
+    },
+    {
+      "id": "kachina",
+      "name": "Kachina",
+      "role": "4*",
+      "rarity": 4,
+      "rarityLabel": "4*",
+      "releaseOrder": 86,
+      "source": "https://genshin-builds.com/en/character/kachina",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/kachina/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/kachina/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Geo"
+      },
+      "builds": []
+    },
+    {
+      "id": "emilie",
+      "name": "Emilie",
+      "role": "5*",
+      "rarity": 5,
+      "rarityLabel": "5*",
+      "releaseOrder": 85,
+      "source": "https://genshin-builds.com/en/character/emilie",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/emilie/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/emilie/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Dendro"
+      },
+      "builds": []
+    },
+    {
+      "id": "sigewinne",
+      "name": "Sigewinne",
+      "role": "5*",
+      "rarity": 5,
+      "rarityLabel": "5*",
+      "releaseOrder": 84,
+      "source": "https://genshin-builds.com/en/character/sigewinne",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/sigewinne/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/sigewinne/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Hydro"
+      },
+      "builds": []
+    },
+    {
+      "id": "sethos",
+      "name": "Sethos",
+      "role": "4*",
+      "rarity": 4,
+      "rarityLabel": "4*",
+      "releaseOrder": 83,
+      "source": "https://genshin-builds.com/en/character/sethos",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/sethos/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/sethos/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Electro"
+      },
+      "builds": []
+    },
+    {
+      "id": "clorinde",
+      "name": "Clorinde",
+      "role": "5*",
+      "rarity": 5,
+      "rarityLabel": "5*",
+      "releaseOrder": 82,
+      "source": "https://genshin-builds.com/en/character/clorinde",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/clorinde/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/clorinde/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Electro"
+      },
+      "builds": []
+    },
+    {
+      "id": "arlecchino",
+      "name": "Arlecchino",
+      "role": "5*",
+      "rarity": 5,
+      "rarityLabel": "5*",
+      "releaseOrder": 81,
+      "source": "https://genshin-builds.com/en/character/arlecchino",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/arlecchino/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/arlecchino/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Pyro"
+      },
+      "builds": [
+        {
+          "setId": 46,
+          "mainStatId": 5,
+          "substatIds": [
+            13,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chiori",
+      "name": "Chiori",
+      "role": "5*",
+      "rarity": 5,
+      "rarityLabel": "5*",
+      "releaseOrder": 80,
+      "source": "https://genshin-builds.com/en/character/chiori",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/chiori/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/chiori/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Geo"
+      },
+      "builds": []
+    },
+    {
+      "id": "xianyun",
+      "name": "Xianyun",
+      "role": "5*",
+      "rarity": 5,
+      "rarityLabel": "5*",
+      "releaseOrder": 79,
+      "source": "https://genshin-builds.com/en/character/xianyun",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/xianyun/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/xianyun/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Anemo"
+      },
+      "builds": []
+    },
+    {
+      "id": "gaming",
+      "name": "Gaming",
+      "role": "4*",
+      "rarity": 4,
+      "rarityLabel": "4*",
+      "releaseOrder": 78,
+      "source": "https://genshin-builds.com/en/character/gaming",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/gaming/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/gaming/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Pyro"
+      },
+      "builds": []
+    },
+    {
+      "id": "chevreuse",
+      "name": "Chevreuse",
+      "role": "4*",
+      "rarity": 4,
+      "rarityLabel": "4*",
+      "releaseOrder": 77,
+      "source": "https://genshin-builds.com/en/character/chevreuse",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/chevreuse/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/chevreuse/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Pyro"
+      },
+      "builds": []
+    },
+    {
+      "id": "navia",
+      "name": "Navia",
+      "role": "5*",
+      "rarity": 5,
+      "rarityLabel": "5*",
+      "releaseOrder": 76,
+      "source": "https://genshin-builds.com/en/character/navia",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/navia/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/navia/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Geo"
+      },
+      "builds": []
+    },
+    {
+      "id": "furina",
+      "name": "Furina",
+      "role": "5*",
+      "rarity": 5,
+      "rarityLabel": "5*",
+      "releaseOrder": 75,
+      "source": "https://genshin-builds.com/en/character/furina",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/furina/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/furina/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Hydro"
+      },
+      "builds": []
+    },
+    {
+      "id": "charlotte",
+      "name": "Charlotte",
+      "role": "4*",
+      "rarity": 4,
+      "rarityLabel": "4*",
+      "releaseOrder": 74,
+      "source": "https://genshin-builds.com/en/character/charlotte",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/charlotte/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/charlotte/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Cryo"
+      },
+      "builds": []
+    },
+    {
+      "id": "wriothesley",
+      "name": "Wriothesley",
+      "role": "5*",
+      "rarity": 5,
+      "rarityLabel": "5*",
+      "releaseOrder": 73,
+      "source": "https://genshin-builds.com/en/character/wriothesley",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/wriothesley/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/wriothesley/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Cryo"
+      },
+      "builds": []
+    },
+    {
+      "id": "neuvillette",
+      "name": "Neuvillette",
+      "role": "5*",
+      "rarity": 5,
+      "rarityLabel": "5*",
+      "releaseOrder": 72,
+      "source": "https://genshin-builds.com/en/character/neuvillette",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/neuvillette/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/neuvillette/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Hydro"
+      },
+      "builds": []
+    },
+    {
+      "id": "freminet",
+      "name": "Freminet",
+      "role": "4*",
+      "rarity": 4,
+      "rarityLabel": "4*",
+      "releaseOrder": 71,
+      "source": "https://genshin-builds.com/en/character/freminet",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/freminet/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/freminet/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Cryo"
+      },
+      "builds": []
+    },
+    {
+      "id": "lyney",
+      "name": "Lyney",
+      "role": "5*",
+      "rarity": 5,
+      "rarityLabel": "5*",
+      "releaseOrder": 70,
+      "source": "https://genshin-builds.com/en/character/lyney",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/lyney/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/lyney/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Pyro"
+      },
+      "builds": []
+    },
+    {
+      "id": "lynette",
+      "name": "Lynette",
+      "role": "4*",
+      "rarity": 4,
+      "rarityLabel": "4*",
+      "releaseOrder": 69,
+      "source": "https://genshin-builds.com/en/character/lynette",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/lynette/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/lynette/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Anemo"
+      },
+      "builds": []
+    },
+    {
+      "id": "kirara",
+      "name": "Kirara",
+      "role": "4*",
+      "rarity": 4,
+      "rarityLabel": "4*",
+      "releaseOrder": 68,
+      "source": "https://genshin-builds.com/en/character/kirara",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/kirara/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/kirara/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Dendro"
+      },
+      "builds": []
+    },
+    {
+      "id": "kaveh",
+      "name": "Kaveh",
+      "role": "4*",
+      "rarity": 4,
+      "rarityLabel": "4*",
+      "releaseOrder": 67,
+      "source": "https://genshin-builds.com/en/character/kaveh",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/kaveh/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/kaveh/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Dendro"
+      },
+      "builds": []
+    },
+    {
+      "id": "baizhu",
+      "name": "Baizhu",
+      "role": "5*",
+      "rarity": 5,
+      "rarityLabel": "5*",
+      "releaseOrder": 66,
+      "source": "https://genshin-builds.com/en/character/baizhu",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/baizhu/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/baizhu/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Dendro"
+      },
+      "builds": []
+    },
+    {
+      "id": "mika",
+      "name": "Mika",
+      "role": "4*",
+      "rarity": 4,
+      "rarityLabel": "4*",
+      "releaseOrder": 65,
+      "source": "https://genshin-builds.com/en/character/mika",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/mika/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/mika/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Cryo"
+      },
+      "builds": []
+    },
+    {
+      "id": "dehya",
+      "name": "Dehya",
+      "role": "5*",
+      "rarity": 5,
+      "rarityLabel": "5*",
+      "releaseOrder": 64,
+      "source": "https://genshin-builds.com/en/character/dehya",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/dehya/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/dehya/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Pyro"
+      },
+      "builds": []
+    },
+    {
+      "id": "yaoyao",
+      "name": "Yaoyao",
+      "role": "4*",
+      "rarity": 4,
+      "rarityLabel": "4*",
+      "releaseOrder": 63,
+      "source": "https://genshin-builds.com/en/character/yaoyao",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/yaoyao/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/yaoyao/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Dendro"
+      },
+      "builds": []
+    },
+    {
+      "id": "alhaitham",
+      "name": "Alhaitham",
+      "role": "5*",
+      "rarity": 5,
+      "rarityLabel": "5*",
+      "releaseOrder": 62,
+      "source": "https://genshin-builds.com/en/character/alhaitham",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/alhaitham/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/alhaitham/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Dendro"
+      },
+      "builds": []
+    },
+    {
+      "id": "wanderer",
+      "name": "Wanderer",
+      "role": "5*",
+      "rarity": 5,
+      "rarityLabel": "5*",
+      "releaseOrder": 61,
+      "source": "https://genshin-builds.com/en/character/wanderer",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/wanderer/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/wanderer/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Anemo"
+      },
+      "builds": []
+    },
+    {
+      "id": "faruzan",
+      "name": "Faruzan",
+      "role": "4*",
+      "rarity": 4,
+      "rarityLabel": "4*",
+      "releaseOrder": 60,
+      "source": "https://genshin-builds.com/en/character/faruzan",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/faruzan/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/faruzan/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Anemo"
+      },
+      "builds": []
+    },
+    {
+      "id": "layla",
+      "name": "Layla",
+      "role": "4*",
+      "rarity": 4,
+      "rarityLabel": "4*",
+      "releaseOrder": 59,
+      "source": "https://genshin-builds.com/en/character/layla",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/layla/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/layla/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Cryo"
+      },
+      "builds": []
+    },
+    {
+      "id": "nahida",
+      "name": "Nahida",
+      "role": "5*",
+      "rarity": 5,
+      "rarityLabel": "5*",
+      "releaseOrder": 58,
+      "source": "https://genshin-builds.com/en/character/nahida",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/nahida/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/nahida/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Dendro"
+      },
+      "builds": [
+        {
+          "setId": 10,
+          "mainStatId": 10,
+          "substatIds": [
+            19,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nilou",
+      "name": "Nilou",
+      "role": "5*",
+      "rarity": 5,
+      "rarityLabel": "5*",
+      "releaseOrder": 57,
+      "source": "https://genshin-builds.com/en/character/nilou",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/nilou/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/nilou/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Hydro"
+      },
+      "builds": []
+    },
+    {
+      "id": "cyno",
+      "name": "Cyno",
+      "role": "5*",
+      "rarity": 5,
+      "rarityLabel": "5*",
+      "releaseOrder": 56,
+      "source": "https://genshin-builds.com/en/character/cyno",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/cyno/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/cyno/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Electro"
+      },
+      "builds": []
+    },
+    {
+      "id": "candace",
+      "name": "Candace",
+      "role": "4*",
+      "rarity": 4,
+      "rarityLabel": "4*",
+      "releaseOrder": 55,
+      "source": "https://genshin-builds.com/en/character/candace",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/candace/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/candace/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Hydro"
+      },
+      "builds": []
+    },
+    {
+      "id": "dori",
+      "name": "Dori",
+      "role": "4*",
+      "rarity": 4,
+      "rarityLabel": "4*",
+      "releaseOrder": 54,
+      "source": "https://genshin-builds.com/en/character/dori",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/dori/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/dori/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Electro"
+      },
+      "builds": []
+    },
+    {
+      "id": "tighnari",
+      "name": "Tighnari",
+      "role": "5*",
+      "rarity": 5,
+      "rarityLabel": "5*",
+      "releaseOrder": 53,
+      "source": "https://genshin-builds.com/en/character/tighnari",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/tighnari/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/tighnari/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Dendro"
+      },
+      "builds": []
+    },
+    {
+      "id": "collei",
+      "name": "Collei",
+      "role": "4*",
+      "rarity": 4,
+      "rarityLabel": "4*",
+      "releaseOrder": 52,
+      "source": "https://genshin-builds.com/en/character/collei",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/collei/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/collei/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Dendro"
+      },
+      "builds": []
+    },
+    {
+      "id": "shikanoin-heizou",
+      "name": "Shikanoin Heizou",
+      "role": "4*",
+      "rarity": 4,
+      "rarityLabel": "4*",
+      "releaseOrder": 51,
+      "source": "https://genshin-builds.com/en/character/shikanoin_heizou",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/shikanoin_heizou/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/shikanoin_heizou/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Anemo"
+      },
+      "builds": []
+    },
+    {
+      "id": "kuki-shinobu",
+      "name": "Kuki Shinobu",
+      "role": "4*",
+      "rarity": 4,
+      "rarityLabel": "4*",
+      "releaseOrder": 50,
+      "source": "https://genshin-builds.com/en/character/kuki_shinobu",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/kuki_shinobu/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/kuki_shinobu/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Electro"
+      },
+      "builds": []
+    },
+    {
+      "id": "yelan",
+      "name": "Yelan",
+      "role": "5*",
+      "rarity": 5,
+      "rarityLabel": "5*",
+      "releaseOrder": 49,
+      "source": "https://genshin-builds.com/en/character/yelan",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/yelan/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/yelan/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Hydro"
+      },
+      "builds": [
+        {
+          "setId": 14,
+          "mainStatId": 4,
+          "substatIds": [
+            9,
+            14,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kamisato-ayato",
+      "name": "Kamisato Ayato",
+      "role": "5*",
+      "rarity": 5,
+      "rarityLabel": "5*",
+      "releaseOrder": 48,
+      "source": "https://genshin-builds.com/en/character/kamisato_ayato",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/kamisato_ayato/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/kamisato_ayato/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Hydro"
+      },
+      "builds": []
+    },
+    {
+      "id": "yae-miko",
+      "name": "Yae Miko",
+      "role": "5*",
+      "rarity": 5,
+      "rarityLabel": "5*",
+      "releaseOrder": 47,
+      "source": "https://genshin-builds.com/en/character/yae_miko",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/yae_miko/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/yae_miko/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Electro"
+      },
+      "builds": []
+    },
+    {
+      "id": "yun-jin",
+      "name": "Yun Jin",
+      "role": "4*",
+      "rarity": 4,
+      "rarityLabel": "4*",
+      "releaseOrder": 46,
+      "source": "https://genshin-builds.com/en/character/yun_jin",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/yun_jin/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/yun_jin/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Geo"
+      },
+      "builds": []
+    },
+    {
+      "id": "shenhe",
+      "name": "Shenhe",
+      "role": "5*",
+      "rarity": 5,
+      "rarityLabel": "5*",
+      "releaseOrder": 45,
+      "source": "https://genshin-builds.com/en/character/shenhe",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/shenhe/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/shenhe/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Cryo"
+      },
+      "builds": []
+    },
+    {
+      "id": "gorou",
+      "name": "Gorou",
+      "role": "4*",
+      "rarity": 4,
+      "rarityLabel": "4*",
+      "releaseOrder": 44,
+      "source": "https://genshin-builds.com/en/character/gorou",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/gorou/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/gorou/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Geo"
+      },
+      "builds": []
+    },
+    {
+      "id": "arataki-itto",
+      "name": "Arataki Itto",
+      "role": "5*",
+      "rarity": 5,
+      "rarityLabel": "5*",
+      "releaseOrder": 43,
+      "source": "https://genshin-builds.com/en/character/arataki_itto",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/arataki_itto/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/arataki_itto/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Geo"
+      },
+      "builds": []
+    },
+    {
+      "id": "thoma",
+      "name": "Thoma",
+      "role": "4*",
+      "rarity": 4,
+      "rarityLabel": "4*",
+      "releaseOrder": 42,
+      "source": "https://genshin-builds.com/en/character/thoma",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/thoma/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/thoma/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Pyro"
+      },
+      "builds": []
+    },
+    {
+      "id": "sangonomiya-kokomi",
+      "name": "Sangonomiya Kokomi",
+      "role": "5*",
+      "rarity": 5,
+      "rarityLabel": "5*",
+      "releaseOrder": 41,
+      "source": "https://genshin-builds.com/en/character/sangonomiya_kokomi",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/sangonomiya_kokomi/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/sangonomiya_kokomi/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Hydro"
+      },
+      "builds": [
+        {
+          "setId": 36,
+          "mainStatId": 4,
+          "substatIds": [
+            14,
+            11
+          ]
+        }
+      ]
+    },
+    {
+      "id": "raiden-shogun",
+      "name": "Raiden Shogun",
+      "role": "5*",
+      "rarity": 5,
+      "rarityLabel": "5*",
+      "releaseOrder": 40,
+      "source": "https://genshin-builds.com/en/character/raiden_shogun",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/raiden_shogun/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/raiden_shogun/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Electro"
+      },
+      "builds": []
+    },
+    {
+      "id": "kujou-sara",
+      "name": "Kujou Sara",
+      "role": "4*",
+      "rarity": 4,
+      "rarityLabel": "4*",
+      "releaseOrder": 39,
+      "source": "https://genshin-builds.com/en/character/kujou_sara",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/kujou_sara/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/kujou_sara/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Electro"
+      },
+      "builds": []
+    },
+    {
+      "id": "aloy",
+      "name": "Aloy",
+      "role": "5*",
+      "rarity": 5,
+      "rarityLabel": "5*",
+      "releaseOrder": 38,
+      "source": "https://genshin-builds.com/en/character/aloy",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/aloy/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/aloy/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Cryo"
+      },
+      "builds": []
+    },
+    {
+      "id": "yoimiya",
+      "name": "Yoimiya",
+      "role": "5*",
+      "rarity": 5,
+      "rarityLabel": "5*",
+      "releaseOrder": 37,
+      "source": "https://genshin-builds.com/en/character/yoimiya",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/yoimiya/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/yoimiya/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Pyro"
+      },
+      "builds": []
+    },
+    {
+      "id": "sayu",
+      "name": "Sayu",
+      "role": "4*",
+      "rarity": 4,
+      "rarityLabel": "4*",
+      "releaseOrder": 36,
+      "source": "https://genshin-builds.com/en/character/sayu",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/sayu/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/sayu/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Anemo"
+      },
+      "builds": []
+    },
+    {
+      "id": "kamisato-ayaka",
+      "name": "Kamisato Ayaka",
+      "role": "5*",
+      "rarity": 5,
+      "rarityLabel": "5*",
+      "releaseOrder": 35,
+      "source": "https://genshin-builds.com/en/character/kamisato_ayaka",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/kamisato_ayaka/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/kamisato_ayaka/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Cryo"
+      },
+      "builds": [
+        {
+          "setId": 6,
+          "mainStatId": 5,
+          "substatIds": [
+            16,
+            8,
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kaedehara-kazuha",
+      "name": "Kaedehara Kazuha",
+      "role": "5*",
+      "rarity": 5,
+      "rarityLabel": "5*",
+      "releaseOrder": 34,
+      "source": "https://genshin-builds.com/en/character/kaedehara_kazuha",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/kaedehara_kazuha/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/kaedehara_kazuha/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Anemo"
+      },
+      "builds": [
+        {
+          "setId": 57,
+          "mainStatId": 10,
+          "substatIds": []
+        }
+      ]
+    },
+    {
+      "id": "eula",
+      "name": "Eula",
+      "role": "5*",
+      "rarity": 5,
+      "rarityLabel": "5*",
+      "releaseOrder": 33,
+      "source": "https://genshin-builds.com/en/character/eula",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/eula/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/eula/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Cryo"
+      },
+      "builds": []
+    },
+    {
+      "id": "yanfei",
+      "name": "Yanfei",
+      "role": "4*",
+      "rarity": 4,
+      "rarityLabel": "4*",
+      "releaseOrder": 32,
+      "source": "https://genshin-builds.com/en/character/yanfei",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/yanfei/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/yanfei/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Pyro"
+      },
+      "builds": []
+    },
+    {
+      "id": "rosaria",
+      "name": "Rosaria",
+      "role": "4*",
+      "rarity": 4,
+      "rarityLabel": "4*",
+      "releaseOrder": 31,
+      "source": "https://genshin-builds.com/en/character/rosaria",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/rosaria/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/rosaria/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Cryo"
+      },
+      "builds": []
+    },
+    {
+      "id": "hu-tao",
+      "name": "Hu Tao",
+      "role": "5*",
+      "rarity": 5,
+      "rarityLabel": "5*",
+      "releaseOrder": 30,
+      "source": "https://genshin-builds.com/en/character/hu_tao",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/hu_tao/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/hu_tao/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Pyro"
+      },
+      "builds": [
+        {
+          "setId": 9,
+          "mainStatId": 4,
+          "substatIds": [
+            10,
+            13,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "id": "xiao",
+      "name": "Xiao",
+      "role": "5*",
+      "rarity": 5,
+      "rarityLabel": "5*",
+      "releaseOrder": 29,
+      "source": "https://genshin-builds.com/en/character/xiao",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/xiao/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/xiao/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Anemo"
+      },
+      "builds": []
+    },
+    {
+      "id": "ganyu",
+      "name": "Ganyu",
+      "role": "5*",
+      "rarity": 5,
+      "rarityLabel": "5*",
+      "releaseOrder": 28,
+      "source": "https://genshin-builds.com/en/character/ganyu",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/ganyu/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/ganyu/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Cryo"
+      },
+      "builds": []
+    },
+    {
+      "id": "albedo",
+      "name": "Albedo",
+      "role": "5*",
+      "rarity": 5,
+      "rarityLabel": "5*",
+      "releaseOrder": 27,
+      "source": "https://genshin-builds.com/en/character/albedo",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/albedo/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/albedo/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Geo"
+      },
+      "builds": []
+    },
+    {
+      "id": "zhongli",
+      "name": "Zhongli",
+      "role": "5*",
+      "rarity": 5,
+      "rarityLabel": "5*",
+      "releaseOrder": 26,
+      "source": "https://genshin-builds.com/en/character/zhongli",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/zhongli/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/zhongli/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Geo"
+      },
+      "builds": []
+    },
+    {
+      "id": "xinyan",
+      "name": "Xinyan",
+      "role": "4*",
+      "rarity": 4,
+      "rarityLabel": "4*",
+      "releaseOrder": 25,
+      "source": "https://genshin-builds.com/en/character/xinyan",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/xinyan/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/xinyan/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Pyro"
+      },
+      "builds": []
+    },
+    {
+      "id": "tartaglia",
+      "name": "Tartaglia",
+      "role": "5*",
+      "rarity": 5,
+      "rarityLabel": "5*",
+      "releaseOrder": 24,
+      "source": "https://genshin-builds.com/en/character/tartaglia",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/tartaglia/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/tartaglia/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Hydro"
+      },
+      "builds": []
+    },
+    {
+      "id": "diona",
+      "name": "Diona",
+      "role": "4*",
+      "rarity": 4,
+      "rarityLabel": "4*",
+      "releaseOrder": 23,
+      "source": "https://genshin-builds.com/en/character/diona",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/diona/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/diona/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Cryo"
+      },
+      "builds": []
+    },
+    {
+      "id": "xingqiu",
+      "name": "Xingqiu",
+      "role": "4*",
+      "rarity": 4,
+      "rarityLabel": "4*",
+      "releaseOrder": 22,
+      "source": "https://genshin-builds.com/en/character/xingqiu",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/xingqiu/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/xingqiu/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Hydro"
+      },
+      "builds": []
+    },
+    {
+      "id": "xiangling",
+      "name": "Xiangling",
+      "role": "4*",
+      "rarity": 4,
+      "rarityLabel": "4*",
+      "releaseOrder": 21,
+      "source": "https://genshin-builds.com/en/character/xiangling",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/xiangling/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/xiangling/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Pyro"
+      },
+      "builds": []
+    },
+    {
+      "id": "venti",
+      "name": "Venti",
+      "role": "5*",
+      "rarity": 5,
+      "rarityLabel": "5*",
+      "releaseOrder": 20,
+      "source": "https://genshin-builds.com/en/character/venti",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/venti/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/venti/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Anemo"
+      },
+      "builds": []
+    },
+    {
+      "id": "traveler",
+      "name": "Traveler",
+      "role": "5*",
+      "rarity": 5,
+      "rarityLabel": "5*",
+      "releaseOrder": 19,
+      "source": "https://genshin-builds.com/en/character/traveler_pyro",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/traveler_pyro/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/traveler_pyro/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Pyro"
+      },
+      "builds": []
+    },
+    {
+      "id": "sucrose",
+      "name": "Sucrose",
+      "role": "4*",
+      "rarity": 4,
+      "rarityLabel": "4*",
+      "releaseOrder": 18,
+      "source": "https://genshin-builds.com/en/character/sucrose",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/sucrose/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/sucrose/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Anemo"
+      },
+      "builds": []
+    },
+    {
+      "id": "razor",
+      "name": "Razor",
+      "role": "4*",
+      "rarity": 4,
+      "rarityLabel": "4*",
+      "releaseOrder": 17,
+      "source": "https://genshin-builds.com/en/character/razor",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/razor/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/razor/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Electro"
+      },
+      "builds": []
+    },
+    {
+      "id": "qiqi",
+      "name": "Qiqi",
+      "role": "5*",
+      "rarity": 5,
+      "rarityLabel": "5*",
+      "releaseOrder": 16,
+      "source": "https://genshin-builds.com/en/character/qiqi",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/qiqi/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/qiqi/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Cryo"
+      },
+      "builds": []
+    },
+    {
+      "id": "noelle",
+      "name": "Noelle",
+      "role": "4*",
+      "rarity": 4,
+      "rarityLabel": "4*",
+      "releaseOrder": 15,
+      "source": "https://genshin-builds.com/en/character/noelle",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/noelle/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/noelle/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Geo"
+      },
+      "builds": []
+    },
+    {
+      "id": "ningguang",
+      "name": "Ningguang",
+      "role": "4*",
+      "rarity": 4,
+      "rarityLabel": "4*",
+      "releaseOrder": 14,
+      "source": "https://genshin-builds.com/en/character/ningguang",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/ningguang/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/ningguang/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Geo"
+      },
+      "builds": []
+    },
+    {
+      "id": "mona",
+      "name": "Mona",
+      "role": "5*",
+      "rarity": 5,
+      "rarityLabel": "5*",
+      "releaseOrder": 13,
+      "source": "https://genshin-builds.com/en/character/mona",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/mona/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/mona/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Hydro"
+      },
+      "builds": []
+    },
+    {
+      "id": "lisa",
+      "name": "Lisa",
+      "role": "4*",
+      "rarity": 4,
+      "rarityLabel": "4*",
+      "releaseOrder": 12,
+      "source": "https://genshin-builds.com/en/character/lisa",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/lisa/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/lisa/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Electro"
+      },
+      "builds": []
+    },
+    {
+      "id": "klee",
+      "name": "Klee",
+      "role": "5*",
+      "rarity": 5,
+      "rarityLabel": "5*",
+      "releaseOrder": 11,
+      "source": "https://genshin-builds.com/en/character/klee",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/klee/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/klee/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Pyro"
+      },
+      "builds": []
+    },
+    {
+      "id": "keqing",
+      "name": "Keqing",
+      "role": "5*",
+      "rarity": 5,
+      "rarityLabel": "5*",
+      "releaseOrder": 10,
+      "source": "https://genshin-builds.com/en/character/keqing",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/keqing/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/keqing/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Electro"
+      },
+      "builds": []
+    },
+    {
+      "id": "kaeya",
+      "name": "Kaeya",
+      "role": "4*",
+      "rarity": 4,
+      "rarityLabel": "4*",
+      "releaseOrder": 9,
+      "source": "https://genshin-builds.com/en/character/kaeya",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/kaeya/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/kaeya/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Cryo"
+      },
+      "builds": []
+    },
+    {
+      "id": "jean",
+      "name": "Jean",
+      "role": "5*",
+      "rarity": 5,
+      "rarityLabel": "5*",
+      "releaseOrder": 8,
+      "source": "https://genshin-builds.com/en/character/jean",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/jean/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/jean/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Anemo"
+      },
+      "builds": []
+    },
+    {
+      "id": "fischl",
+      "name": "Fischl",
+      "role": "4*",
+      "rarity": 4,
+      "rarityLabel": "4*",
+      "releaseOrder": 7,
+      "source": "https://genshin-builds.com/en/character/fischl",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/fischl/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/fischl/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Electro"
+      },
+      "builds": [
+        {
+          "setId": 51,
+          "mainStatId": 5,
+          "substatIds": [
+            10,
+            15,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "id": "diluc",
+      "name": "Diluc",
+      "role": "5*",
+      "rarity": 5,
+      "rarityLabel": "5*",
+      "releaseOrder": 6,
+      "source": "https://genshin-builds.com/en/character/diluc",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/diluc/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/diluc/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Pyro"
+      },
+      "builds": []
+    },
+    {
+      "id": "chongyun",
+      "name": "Chongyun",
+      "role": "4*",
+      "rarity": 4,
+      "rarityLabel": "4*",
+      "releaseOrder": 5,
+      "source": "https://genshin-builds.com/en/character/chongyun",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/chongyun/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/chongyun/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Cryo"
+      },
+      "builds": []
+    },
+    {
+      "id": "bennett",
+      "name": "Bennett",
+      "role": "4*",
+      "rarity": 4,
+      "rarityLabel": "4*",
+      "releaseOrder": 4,
+      "source": "https://genshin-builds.com/en/character/bennett",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/bennett/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/bennett/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Pyro"
+      },
+      "builds": []
+    },
+    {
+      "id": "beidou",
+      "name": "Beidou",
+      "role": "4*",
+      "rarity": 4,
+      "rarityLabel": "4*",
+      "releaseOrder": 3,
+      "source": "https://genshin-builds.com/en/character/beidou",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/beidou/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/beidou/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Electro"
+      },
+      "builds": []
+    },
+    {
+      "id": "barbara",
+      "name": "Barbara",
+      "role": "4*",
+      "rarity": 4,
+      "rarityLabel": "4*",
+      "releaseOrder": 2,
+      "source": "https://genshin-builds.com/en/character/barbara",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/barbara/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/barbara/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Hydro"
+      },
+      "builds": []
+    },
+    {
+      "id": "amber",
+      "name": "Amber",
+      "role": "4*",
+      "rarity": 4,
+      "rarityLabel": "4*",
+      "releaseOrder": 1,
+      "source": "https://genshin-builds.com/en/character/amber",
+      "images": {
+        "card": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/amber/image.png?strip=all&quality=100&w=512",
+        "splash": "https://i2.wp.com/images.genshin-builds.com/genshin/characters/amber/image.png?strip=all&quality=100&w=512"
+      },
+      "details": {
+        "element": "Pyro"
+      },
+      "builds": []
+    }
+  ],
+  "catalogs": {
+    "sets": "./data/genshin-sets.json",
+    "stats": "./data/genshin-stats.json"
+  }
+}

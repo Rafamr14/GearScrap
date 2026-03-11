@@ -1,0 +1,2533 @@
+{
+  "game": {
+    "id": "gf2",
+    "name": "Girls' Frontline 2"
+  },
+  "source": "https://gfl2.help/en/characters/t-dolls",
+  "characters": [
+    {
+      "id": "sakura",
+      "name": "Sakura",
+      "role": "Vanguard",
+      "rarity": 5,
+      "rarityLabel": "Elite",
+      "releaseOrder": 43,
+      "source": "https://gfl2.help/en/character/Sakura",
+      "images": {
+        "card": "./img/avatar/gl2/Avatar_Bust_SakuraSSR.png",
+        "splash": "https://gfl2.help/static/images/chara/full/Sakura.png"
+      },
+      "details": {
+        "phase": "Burn",
+        "attackTypes": [
+          "Light Ammo"
+        ],
+        "attributes": [
+          "Light Ammo",
+          "Burn"
+        ],
+        "weaknesses": [
+          "Medium Ammo",
+          "Freeze"
+        ],
+        "recommendedSetName": "Burn Boost",
+        "substatPriority": [
+          "Attack Boost",
+          "Attack",
+          "Crit Rate",
+          "Critical Damage"
+        ],
+        "recommendedSetId": 14,
+        "recommendedSet": "Burn Boost"
+      },
+      "builds": [
+        {
+          "setId": 14,
+          "mainStatId": null,
+          "substatIds": [
+            6,
+            1,
+            4,
+            5
+          ]
+        },
+        {
+          "setId": 6,
+          "mainStatId": null,
+          "substatIds": [
+            1,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lewis",
+      "name": "Lewis",
+      "role": "Sentinel",
+      "rarity": 5,
+      "rarityLabel": "Elite",
+      "releaseOrder": 42,
+      "source": "https://gfl2.help/en/character/Lewis",
+      "images": {
+        "card": "./img/avatar/gl2/Avatar_Bust_LewisSSR.png",
+        "splash": "https://gfl2.help/static/images/chara/full/Lewis.png"
+      },
+      "details": {
+        "phase": "Burn",
+        "attackTypes": [
+          "Heavy Ammo"
+        ],
+        "attributes": [
+          "Heavy Ammo",
+          "Burn"
+        ],
+        "weaknesses": [
+          "Light Ammo",
+          "Corrosion"
+        ],
+        "recommendedSetName": "Burn Boost",
+        "substatPriority": [
+          "Attack Boost",
+          "Attack",
+          "Crit Rate",
+          "Critical Damage"
+        ],
+        "recommendedSetId": 14,
+        "recommendedSet": "Burn Boost"
+      },
+      "builds": [
+        {
+          "setId": 14,
+          "mainStatId": null,
+          "substatIds": [
+            6,
+            1,
+            4,
+            5
+          ]
+        },
+        {
+          "setId": 7,
+          "mainStatId": null,
+          "substatIds": [
+            1,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "id": "robella",
+      "name": "Robella",
+      "role": "Sentinel",
+      "rarity": 5,
+      "rarityLabel": "Elite",
+      "releaseOrder": 41,
+      "source": "https://gfl2.help/en/character/Robella",
+      "images": {
+        "card": "./img/avatar/gl2/Avatar_Bust_RobellaSSR.png",
+        "splash": "https://gfl2.help/static/images/chara/full/Robella.png"
+      },
+      "details": {
+        "phase": "Freeze",
+        "attackTypes": [
+          "Light Ammo"
+        ],
+        "attributes": [
+          "Light Ammo",
+          "Freeze"
+        ],
+        "weaknesses": [
+          "Medium Ammo",
+          "Burn"
+        ],
+        "recommendedSetName": "Freeze Boost",
+        "substatPriority": [
+          "Attack Boost",
+          "Attack",
+          "Crit Rate",
+          "Critical Damage"
+        ],
+        "recommendedSetId": 15,
+        "recommendedSet": "Freeze Boost"
+      },
+      "builds": [
+        {
+          "setId": 15,
+          "mainStatId": null,
+          "substatIds": [
+            6,
+            1,
+            4,
+            5
+          ]
+        },
+        {
+          "setId": 7,
+          "mainStatId": null,
+          "substatIds": [
+            1,
+            4,
+            5,
+            6,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lenna",
+      "name": "Lenna",
+      "role": "Support",
+      "rarity": 5,
+      "rarityLabel": "Elite",
+      "releaseOrder": 40,
+      "source": "https://gfl2.help/en/character/Lenna",
+      "images": {
+        "card": "./img/avatar/gl2/Avatar_Bust_LennaSSR.png",
+        "splash": "https://gfl2.help/static/images/chara/full/Lenna.png"
+      },
+      "details": {
+        "phase": "Electric",
+        "attackTypes": [
+          "Light Ammo"
+        ],
+        "attributes": [
+          "Light Ammo",
+          "Electric"
+        ],
+        "weaknesses": [
+          "Medium Ammo",
+          "Freeze"
+        ],
+        "recommendedSetName": "Electric Boost",
+        "substatPriority": [
+          "Attack Boost",
+          "Attack",
+          "Crit Rate",
+          "Critical Damage"
+        ],
+        "recommendedSetId": 2,
+        "recommendedSet": "Electric Boost"
+      },
+      "builds": [
+        {
+          "setId": 2,
+          "mainStatId": null,
+          "substatIds": [
+            6,
+            1,
+            4,
+            5
+          ]
+        },
+        {
+          "setId": 12,
+          "mainStatId": null,
+          "substatIds": [
+            2,
+            7,
+            3,
+            8,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "id": "leva",
+      "name": "Leva",
+      "role": "Sentinel",
+      "rarity": 5,
+      "rarityLabel": "Elite",
+      "releaseOrder": 39,
+      "source": "https://gfl2.help/en/character/Leva",
+      "images": {
+        "card": "./img/avatar/gl2/Avatar_Bust_LevaSSR.png",
+        "splash": "https://gfl2.help/static/images/chara/full/Leva.png"
+      },
+      "details": {
+        "phase": "Electric",
+        "attackTypes": [
+          "Light Ammo"
+        ],
+        "attributes": [
+          "Light Ammo",
+          "Electric"
+        ],
+        "weaknesses": [
+          "Medium Ammo",
+          "Freeze"
+        ],
+        "recommendedSetName": "Electric Boost",
+        "substatPriority": [
+          "Attack Boost",
+          "Attack",
+          "Crit Rate",
+          "Critical Damage"
+        ],
+        "recommendedSetId": 2,
+        "recommendedSet": "Electric Boost"
+      },
+      "builds": [
+        {
+          "setId": 2,
+          "mainStatId": null,
+          "substatIds": [
+            6,
+            1,
+            4,
+            5
+          ]
+        },
+        {
+          "setId": 7,
+          "mainStatId": null,
+          "substatIds": [
+            1,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lind",
+      "name": "Lind",
+      "role": "Sentinel",
+      "rarity": 5,
+      "rarityLabel": "Elite",
+      "releaseOrder": 38,
+      "source": "https://gfl2.help/en/character/Lind",
+      "images": {
+        "card": "./img/avatar/gl2/Avatar_Bust_LindSSR.png",
+        "splash": "https://gfl2.help/static/images/chara/full/Lind.png"
+      },
+      "details": {
+        "phase": "Corrosion",
+        "attackTypes": [
+          "Shotgun Ammo"
+        ],
+        "attributes": [
+          "Shotgun Ammo",
+          "Corrosion"
+        ],
+        "weaknesses": [
+          "Heavy Ammo",
+          "Electric"
+        ],
+        "recommendedSetName": "Corrosion Boost",
+        "substatPriority": [
+          "Attack Boost",
+          "Attack",
+          "Crit Rate",
+          "Critical Damage"
+        ],
+        "recommendedSetId": 1,
+        "recommendedSet": "Corrosion Boost"
+      },
+      "builds": [
+        {
+          "setId": 1,
+          "mainStatId": null,
+          "substatIds": [
+            6,
+            1,
+            4,
+            5
+          ]
+        },
+        {
+          "setId": 7,
+          "mainStatId": null,
+          "substatIds": [
+            1,
+            4,
+            5,
+            6,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "id": "florence",
+      "name": "Florence",
+      "role": "Support",
+      "rarity": 5,
+      "rarityLabel": "Elite",
+      "releaseOrder": 37,
+      "source": "https://gfl2.help/en/character/Florence",
+      "images": {
+        "card": "./img/avatar/gl2/Avatar_Bust_FlorenceSSR.png",
+        "splash": "https://gfl2.help/static/images/chara/full/Florence.png"
+      },
+      "details": {
+        "phase": "Hydro",
+        "attackTypes": [
+          "Light Ammo"
+        ],
+        "attributes": [
+          "Light Ammo",
+          "Hydro"
+        ],
+        "weaknesses": [
+          "Shotgun Ammo",
+          "Corrosion"
+        ],
+        "recommendedSetName": "Hydro Boost",
+        "substatPriority": [
+          "Attack Boost",
+          "Attack",
+          "Crit Rate",
+          "Critical Damage"
+        ],
+        "recommendedSetId": 3,
+        "recommendedSet": "Hydro Boost"
+      },
+      "builds": [
+        {
+          "setId": 3,
+          "mainStatId": null,
+          "substatIds": [
+            6,
+            1,
+            4,
+            5
+          ]
+        },
+        {
+          "setId": 12,
+          "mainStatId": null,
+          "substatIds": [
+            2,
+            7,
+            3,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jiangyu",
+      "name": "Jiangyu",
+      "role": "Support",
+      "rarity": 5,
+      "rarityLabel": "Elite",
+      "releaseOrder": 36,
+      "source": "https://gfl2.help/en/character/Jiangyu",
+      "images": {
+        "card": "./img/avatar/gl2/Avatar_Bust_JiangyuSSR.png",
+        "splash": "https://gfl2.help/static/images/chara/full/Jiangyu.png"
+      },
+      "details": {
+        "phase": "Electric",
+        "attackTypes": [
+          "Medium Ammo"
+        ],
+        "attributes": [
+          "Medium Ammo",
+          "Electric"
+        ],
+        "weaknesses": [
+          "Heavy Ammo",
+          "Hydro"
+        ],
+        "recommendedSetName": "Electric Boost",
+        "substatPriority": [
+          "Attack Boost",
+          "Attack",
+          "Crit Rate",
+          "Critical Damage"
+        ],
+        "recommendedSetId": 2,
+        "recommendedSet": "Electric Boost"
+      },
+      "builds": [
+        {
+          "setId": 2,
+          "mainStatId": null,
+          "substatIds": [
+            6,
+            1,
+            4,
+            5
+          ]
+        },
+        {
+          "setId": 12,
+          "mainStatId": null,
+          "substatIds": [
+            2,
+            7,
+            3,
+            8,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "id": "andoris",
+      "name": "Andoris",
+      "role": "Bulwark",
+      "rarity": 5,
+      "rarityLabel": "Elite",
+      "releaseOrder": 35,
+      "source": "https://gfl2.help/en/character/Andoris",
+      "images": {
+        "card": "./img/avatar/gl2/Avatar_Bust_AndorisSSR.png",
+        "splash": "https://gfl2.help/static/images/chara/full/Andoris.png"
+      },
+      "details": {
+        "phase": "Electric",
+        "attackTypes": [
+          "Medium Ammo"
+        ],
+        "attributes": [
+          "Medium Ammo",
+          "Electric"
+        ],
+        "weaknesses": [
+          "Heavy Ammo",
+          "Corrosion"
+        ],
+        "recommendedSetName": "Phase Strike",
+        "substatPriority": [
+          "Health Boost",
+          "Defense Boost",
+          "Health",
+          "Defense"
+        ],
+        "recommendedSetId": 12,
+        "recommendedSet": "Ally Support"
+      },
+      "builds": [
+        {
+          "setId": 12,
+          "mainStatId": null,
+          "substatIds": [
+            7,
+            8,
+            2,
+            3
+          ]
+        },
+        {
+          "setId": 5,
+          "mainStatId": null,
+          "substatIds": [
+            3,
+            2,
+            8,
+            7,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "id": "belka",
+      "name": "Belka",
+      "role": "Vanguard",
+      "rarity": 5,
+      "rarityLabel": "Elite",
+      "releaseOrder": 34,
+      "source": "https://gfl2.help/en/character/Belka",
+      "images": {
+        "card": "./img/avatar/gl2/Avatar_Bust_BiyocaSSR.png",
+        "splash": "https://gfl2.help/static/images/chara/full/Belka.png"
+      },
+      "details": {
+        "phase": "Electric",
+        "attackTypes": [
+          "Medium Ammo"
+        ],
+        "attributes": [
+          "Medium Ammo",
+          "Electric"
+        ],
+        "weaknesses": [
+          "Shotgun Ammo",
+          "Freeze"
+        ],
+        "recommendedSetName": "Electric Boost",
+        "substatPriority": [
+          "Attack Boost",
+          "Attack",
+          "Crit Rate",
+          "Critical Damage"
+        ],
+        "recommendedSetId": 2,
+        "recommendedSet": "Electric Boost"
+      },
+      "builds": [
+        {
+          "setId": 2,
+          "mainStatId": null,
+          "substatIds": [
+            6,
+            1,
+            4,
+            5
+          ]
+        },
+        {
+          "setId": 6,
+          "mainStatId": null,
+          "substatIds": [
+            1,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nikketa",
+      "name": "Nikketa",
+      "role": "Sentinel",
+      "rarity": 5,
+      "rarityLabel": "Elite",
+      "releaseOrder": 33,
+      "source": "https://gfl2.help/en/character/Nikketa",
+      "images": {
+        "card": "./img/avatar/gl2/Avatar_Bust_NikketaSSR.png",
+        "splash": "https://gfl2.help/static/images/chara/full/Nikketa.png"
+      },
+      "details": {
+        "phase": "Hydro",
+        "attackTypes": [
+          "Heavy Ammo"
+        ],
+        "attributes": [
+          "Heavy Ammo",
+          "Hydro"
+        ],
+        "weaknesses": [
+          "Light Ammo",
+          "Electric"
+        ],
+        "recommendedSetName": "Hydro Boost",
+        "substatPriority": [
+          "Attack Boost",
+          "Attack",
+          "Crit Rate",
+          "Critical Damage"
+        ],
+        "recommendedSetId": 3,
+        "recommendedSet": "Hydro Boost"
+      },
+      "builds": [
+        {
+          "setId": 3,
+          "mainStatId": null,
+          "substatIds": [
+            6,
+            1,
+            4,
+            5
+          ]
+        },
+        {
+          "setId": 7,
+          "mainStatId": null,
+          "substatIds": [
+            1,
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "id": "qiuhua",
+      "name": "Qiuhua",
+      "role": "Vanguard",
+      "rarity": 5,
+      "rarityLabel": "Elite",
+      "releaseOrder": 32,
+      "source": "https://gfl2.help/en/character/Qiuhua",
+      "images": {
+        "card": "./img/avatar/gl2/Avatar_Bust_QiuhuaSSR.png",
+        "splash": "https://gfl2.help/static/images/chara/full/Qiuhua.png"
+      },
+      "details": {
+        "phase": "Burn",
+        "attackTypes": [
+          "Shotgun Ammo"
+        ],
+        "attributes": [
+          "Shotgun Ammo",
+          "Burn"
+        ],
+        "weaknesses": [
+          "Heavy Ammo",
+          "Corrosion"
+        ],
+        "recommendedSetName": "Burn Boost",
+        "substatPriority": [
+          "Attack Boost",
+          "Attack",
+          "Crit Rate",
+          "Critical Damage"
+        ],
+        "recommendedSetId": 14,
+        "recommendedSet": "Burn Boost"
+      },
+      "builds": [
+        {
+          "setId": 14,
+          "mainStatId": null,
+          "substatIds": [
+            6,
+            1,
+            4,
+            5
+          ]
+        },
+        {
+          "setId": 6,
+          "mainStatId": null,
+          "substatIds": [
+            1,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "id": "faye",
+      "name": "Faye",
+      "role": "Vanguard",
+      "rarity": 5,
+      "rarityLabel": "Elite",
+      "releaseOrder": 31,
+      "source": "https://gfl2.help/en/character/Faye",
+      "images": {
+        "card": "./img/avatar/gl2/Avatar_Bust_FayeSSR.png",
+        "splash": "https://gfl2.help/static/images/chara/full/Faye.png"
+      },
+      "details": {
+        "phase": "Physical",
+        "attackTypes": [
+          "Light Ammo",
+          "Melee"
+        ],
+        "attributes": [
+          "Light Ammo",
+          "Melee",
+          "Physical"
+        ],
+        "weaknesses": [
+          "Shotgun Ammo",
+          "Hydro"
+        ],
+        "recommendedSetName": "Ballistic Boost",
+        "substatPriority": [
+          "Attack Boost",
+          "Attack",
+          "Crit Rate",
+          "Critical Damage"
+        ],
+        "recommendedSetId": 13,
+        "recommendedSet": "Ballistic Boost"
+      },
+      "builds": [
+        {
+          "setId": 13,
+          "mainStatId": null,
+          "substatIds": [
+            6,
+            1,
+            4,
+            5
+          ]
+        },
+        {
+          "setId": 6,
+          "mainStatId": null,
+          "substatIds": [
+            1,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "id": "peri",
+      "name": "Peri",
+      "role": "Bulwark",
+      "rarity": 5,
+      "rarityLabel": "Elite",
+      "releaseOrder": 30,
+      "source": "https://gfl2.help/en/character/Peri",
+      "images": {
+        "card": "./img/avatar/gl2/Avatar_Bust_PeriSSR.png",
+        "splash": "https://gfl2.help/static/images/chara/full/Peri.png"
+      },
+      "details": {
+        "phase": "Burn",
+        "attackTypes": [
+          "Light Ammo"
+        ],
+        "attributes": [
+          "Light Ammo",
+          "Burn"
+        ],
+        "weaknesses": [
+          "Medium Ammo",
+          "Freeze"
+        ],
+        "recommendedSetName": "Burn Boost",
+        "substatPriority": [
+          "Health Boost",
+          "Health",
+          "Attack Boost",
+          "Critical Damage"
+        ],
+        "recommendedSetId": 14,
+        "recommendedSet": "Burn Boost"
+      },
+      "builds": [
+        {
+          "setId": 14,
+          "mainStatId": null,
+          "substatIds": [
+            7,
+            2,
+            6,
+            1
+          ]
+        },
+        {
+          "setId": 5,
+          "mainStatId": null,
+          "substatIds": [
+            3,
+            2,
+            8,
+            7,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "springfield",
+      "name": "Springfield",
+      "role": "Support",
+      "rarity": 5,
+      "rarityLabel": "Elite",
+      "releaseOrder": 29,
+      "source": "https://gfl2.help/en/character/Springfield",
+      "images": {
+        "card": "./img/avatar/gl2/Avatar_Bust_SpringfieldSSR.png",
+        "splash": "https://gfl2.help/static/images/chara/full/Springfield.png"
+      },
+      "details": {
+        "phase": "Hydro",
+        "attackTypes": [
+          "Heavy Ammo"
+        ],
+        "attributes": [
+          "Heavy Ammo",
+          "Hydro"
+        ],
+        "weaknesses": [
+          "Light Ammo",
+          "Electric"
+        ],
+        "recommendedSetName": "Hydro Boost",
+        "substatPriority": [
+          "Health Boost",
+          "Health",
+          "Attack Boost",
+          "Attack"
+        ],
+        "recommendedSetId": 3,
+        "recommendedSet": "Hydro Boost"
+      },
+      "builds": [
+        {
+          "setId": 3,
+          "mainStatId": null,
+          "substatIds": [
+            7,
+            2,
+            6,
+            1
+          ]
+        },
+        {
+          "setId": 12,
+          "mainStatId": null,
+          "substatIds": [
+            2,
+            7,
+            3,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "id": "zhaohui",
+      "name": "Zhaohui",
+      "role": "Vanguard",
+      "rarity": 5,
+      "rarityLabel": "Elite",
+      "releaseOrder": 28,
+      "source": "https://gfl2.help/en/character/Zhaohui",
+      "images": {
+        "card": "./img/avatar/gl2/Avatar_Bust_ZhaohuiSSR.png",
+        "splash": "https://gfl2.help/static/images/chara/full/Zhaohui.png"
+      },
+      "details": {
+        "phase": "Hydro",
+        "attackTypes": [
+          "Light Ammo"
+        ],
+        "attributes": [
+          "Light Ammo",
+          "Hydro"
+        ],
+        "weaknesses": [
+          "Heavy Ammo",
+          "Burn"
+        ],
+        "recommendedSetName": "Phase Strike",
+        "substatPriority": [
+          "Attack Boost",
+          "Attack",
+          "Crit Rate",
+          "Critical Damage"
+        ],
+        "recommendedSetId": 9,
+        "recommendedSet": "Phase Strike"
+      },
+      "builds": [
+        {
+          "setId": 9,
+          "mainStatId": null,
+          "substatIds": [
+            6,
+            1,
+            4,
+            5
+          ]
+        },
+        {
+          "setId": 6,
+          "mainStatId": null,
+          "substatIds": [
+            1,
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yoohee",
+      "name": "Yoohee",
+      "role": "Support",
+      "rarity": 5,
+      "rarityLabel": "Elite",
+      "releaseOrder": 27,
+      "source": "https://gfl2.help/en/character/Yoohee",
+      "images": {
+        "card": "./img/avatar/gl2/Avatar_Bust_YooHeeSSR.png",
+        "splash": "https://gfl2.help/static/images/chara/full/Yoohee.png"
+      },
+      "details": {
+        "phase": "Physical",
+        "attackTypes": [
+          "Medium Ammo"
+        ],
+        "attributes": [
+          "Medium Ammo",
+          "Physical"
+        ],
+        "weaknesses": [
+          "Shotgun Ammo",
+          "Freeze"
+        ],
+        "recommendedSetName": "Ballistic Boost",
+        "substatPriority": [
+          "Attack Boost",
+          "Attack",
+          "Crit Rate",
+          "Critical Damage"
+        ],
+        "recommendedSetId": 13,
+        "recommendedSet": "Ballistic Boost"
+      },
+      "builds": [
+        {
+          "setId": 13,
+          "mainStatId": null,
+          "substatIds": [
+            6,
+            1,
+            4,
+            5
+          ]
+        },
+        {
+          "setId": 12,
+          "mainStatId": null,
+          "substatIds": [
+            2,
+            7,
+            3,
+            8,
+            5
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vector",
+      "name": "Vector",
+      "role": "Support",
+      "rarity": 5,
+      "rarityLabel": "Elite",
+      "releaseOrder": 26,
+      "source": "https://gfl2.help/en/character/Vector",
+      "images": {
+        "card": "./img/avatar/gl2/Avatar_Bust_VectorSSR.png",
+        "splash": "https://gfl2.help/static/images/chara/full/Vector.png"
+      },
+      "details": {
+        "phase": "Burn",
+        "attackTypes": [
+          "Light Ammo"
+        ],
+        "attributes": [
+          "Light Ammo",
+          "Burn"
+        ],
+        "weaknesses": [
+          "Medium Ammo",
+          "Hydro"
+        ],
+        "recommendedSetName": "Burn Boost",
+        "substatPriority": [
+          "Attack Boost",
+          "Attack",
+          "Crit Rate",
+          "Critical Damage"
+        ],
+        "recommendedSetId": 14,
+        "recommendedSet": "Burn Boost"
+      },
+      "builds": [
+        {
+          "setId": 14,
+          "mainStatId": null,
+          "substatIds": [
+            6,
+            1,
+            4,
+            5
+          ]
+        },
+        {
+          "setId": 12,
+          "mainStatId": null,
+          "substatIds": [
+            2,
+            7,
+            3,
+            8,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mechty",
+      "name": "Mechty",
+      "role": "Support",
+      "rarity": 5,
+      "rarityLabel": "Elite",
+      "releaseOrder": 25,
+      "source": "https://gfl2.help/en/character/Mechty",
+      "images": {
+        "card": "./img/avatar/gl2/Avatar_Bust_MishtySSR.png",
+        "splash": "https://gfl2.help/static/images/chara/full/Mechty.png"
+      },
+      "details": {
+        "phase": "Corrosion",
+        "attackTypes": [
+          "Medium Ammo"
+        ],
+        "attributes": [
+          "Medium Ammo",
+          "Corrosion"
+        ],
+        "weaknesses": [
+          "Heavy Ammo",
+          "Hydro"
+        ],
+        "recommendedSetName": "Corrosion Boost",
+        "substatPriority": [
+          "Attack Boost",
+          "Attack",
+          "Crit Rate",
+          "Critical Damage"
+        ],
+        "recommendedSetId": 1,
+        "recommendedSet": "Corrosion Boost"
+      },
+      "builds": [
+        {
+          "setId": 1,
+          "mainStatId": null,
+          "substatIds": [
+            6,
+            1,
+            4,
+            5
+          ]
+        },
+        {
+          "setId": 12,
+          "mainStatId": null,
+          "substatIds": [
+            2,
+            7,
+            3,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "id": "klukai",
+      "name": "Klukai",
+      "role": "Sentinel",
+      "rarity": 5,
+      "rarityLabel": "Elite",
+      "releaseOrder": 24,
+      "source": "https://gfl2.help/en/character/Klukai",
+      "images": {
+        "card": "./img/avatar/gl2/Avatar_Bust_ClukaySSR.png",
+        "splash": "https://gfl2.help/static/images/chara/full/Klukai.png"
+      },
+      "details": {
+        "phase": "Corrosion",
+        "attackTypes": [
+          "Medium Ammo"
+        ],
+        "attributes": [
+          "Medium Ammo",
+          "Corrosion"
+        ],
+        "weaknesses": [
+          "Shotgun Ammo",
+          "Electric"
+        ],
+        "recommendedSetName": "Corrosion Boost",
+        "substatPriority": [
+          "Attack Boost",
+          "Attack",
+          "Crit Rate",
+          "Critical Damage"
+        ],
+        "recommendedSetId": 1,
+        "recommendedSet": "Corrosion Boost"
+      },
+      "builds": [
+        {
+          "setId": 1,
+          "mainStatId": null,
+          "substatIds": [
+            6,
+            1,
+            4,
+            5
+          ]
+        },
+        {
+          "setId": 7,
+          "mainStatId": null,
+          "substatIds": [
+            1,
+            4,
+            5,
+            6,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "id": "centaureissi",
+      "name": "Centaureissi",
+      "role": "Support",
+      "rarity": 5,
+      "rarityLabel": "Elite",
+      "releaseOrder": 23,
+      "source": "https://gfl2.help/en/character/Centaureissi",
+      "images": {
+        "card": "./img/avatar/gl2/Avatar_Bust_CentaureissiSSR.png",
+        "splash": "https://gfl2.help/static/images/chara/full/Centaureissi.png"
+      },
+      "details": {
+        "phase": "Burn",
+        "attackTypes": [
+          "Medium Ammo"
+        ],
+        "attributes": [
+          "Medium Ammo",
+          "Burn"
+        ],
+        "weaknesses": [
+          "Heavy Ammo",
+          "Hydro"
+        ],
+        "recommendedSetName": "Emergency Repair",
+        "substatPriority": [
+          "Attack Boost",
+          "Attack",
+          "Health Boost",
+          "Defense Boost"
+        ],
+        "recommendedSetId": 14,
+        "recommendedSet": "Burn Boost"
+      },
+      "builds": [
+        {
+          "setId": 14,
+          "mainStatId": null,
+          "substatIds": [
+            6,
+            1,
+            7,
+            8
+          ]
+        },
+        {
+          "setId": 12,
+          "mainStatId": null,
+          "substatIds": [
+            2,
+            7,
+            3,
+            8,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dushevnaya",
+      "name": "Dushevnaya",
+      "role": "Support",
+      "rarity": 5,
+      "rarityLabel": "Elite",
+      "releaseOrder": 22,
+      "source": "https://gfl2.help/en/character/Dushevnaya",
+      "images": {
+        "card": "./img/avatar/gl2/Avatar_Bust_DusevnyjSSR.png",
+        "splash": "https://gfl2.help/static/images/chara/full/Dushevnaya.png"
+      },
+      "details": {
+        "phase": "Freeze",
+        "attackTypes": [
+          "Heavy Ammo"
+        ],
+        "attributes": [
+          "Heavy Ammo",
+          "Freeze"
+        ],
+        "weaknesses": [
+          "Light Ammo",
+          "Electric"
+        ],
+        "recommendedSetName": "Phase Strike",
+        "substatPriority": [
+          "Attack Boost",
+          "Attack",
+          "Crit Rate",
+          "Critical Damage"
+        ],
+        "recommendedSetId": 9,
+        "recommendedSet": "Phase Strike"
+      },
+      "builds": [
+        {
+          "setId": 9,
+          "mainStatId": null,
+          "substatIds": [
+            6,
+            1,
+            4,
+            5
+          ]
+        },
+        {
+          "setId": 12,
+          "mainStatId": null,
+          "substatIds": [
+            2,
+            7,
+            3,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "id": "daiyan",
+      "name": "Daiyan",
+      "role": "Vanguard",
+      "rarity": 5,
+      "rarityLabel": "Elite",
+      "releaseOrder": 21,
+      "source": "https://gfl2.help/en/character/Daiyan",
+      "images": {
+        "card": "./img/avatar/gl2/Avatar_Bust_DaiyanSSR.png",
+        "splash": "https://gfl2.help/static/images/chara/full/Daiyan.png"
+      },
+      "details": {
+        "phase": "Physical",
+        "attackTypes": [
+          "Medium Ammo",
+          "Light Ammo"
+        ],
+        "attributes": [
+          "Medium Ammo",
+          "Light Ammo",
+          "Physical"
+        ],
+        "weaknesses": [
+          "Medium Ammo",
+          "Burn"
+        ],
+        "recommendedSetName": "Ballistic Boost",
+        "substatPriority": [
+          "Attack Boost",
+          "Attack",
+          "Crit Rate",
+          "Critical Damage"
+        ],
+        "recommendedSetId": 13,
+        "recommendedSet": "Ballistic Boost"
+      },
+      "builds": [
+        {
+          "setId": 13,
+          "mainStatId": null,
+          "substatIds": [
+            6,
+            1,
+            4,
+            5
+          ]
+        },
+        {
+          "setId": 6,
+          "mainStatId": null,
+          "substatIds": [
+            1,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mosin-nagant",
+      "name": "Mosin-Nagant",
+      "role": "Sentinel",
+      "rarity": 5,
+      "rarityLabel": "Elite",
+      "releaseOrder": 20,
+      "source": "https://gfl2.help/en/character/Mosin-Nagant",
+      "images": {
+        "card": "./img/avatar/gl2/Avatar_Bust_MosinnagantSSR.png",
+        "splash": "https://gfl2.help/static/images/chara/full/Mosin-Nagant.png"
+      },
+      "details": {
+        "phase": "Electric",
+        "attackTypes": [
+          "Heavy Ammo"
+        ],
+        "attributes": [
+          "Heavy Ammo",
+          "Electric"
+        ],
+        "weaknesses": [
+          "Light Ammo",
+          "Corrosion"
+        ],
+        "recommendedSetName": "Phase Strike",
+        "substatPriority": [
+          "Attack Boost",
+          "Attack",
+          "Crit Rate",
+          "Critical Damage"
+        ],
+        "recommendedSetId": 9,
+        "recommendedSet": "Phase Strike"
+      },
+      "builds": [
+        {
+          "setId": 9,
+          "mainStatId": null,
+          "substatIds": [
+            6,
+            1,
+            4,
+            5
+          ]
+        },
+        {
+          "setId": 7,
+          "mainStatId": null,
+          "substatIds": [
+            1,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "id": "makiatto",
+      "name": "Makiatto",
+      "role": "Sentinel",
+      "rarity": 5,
+      "rarityLabel": "Elite",
+      "releaseOrder": 19,
+      "source": "https://gfl2.help/en/character/Makiatto",
+      "images": {
+        "card": "./img/avatar/gl2/Avatar_Bust_MacqiatoSSR.png",
+        "splash": "https://gfl2.help/static/images/chara/full/Makiatto.png"
+      },
+      "details": {
+        "phase": "Freeze",
+        "attackTypes": [
+          "Heavy Ammo"
+        ],
+        "attributes": [
+          "Heavy Ammo",
+          "Freeze"
+        ],
+        "weaknesses": [
+          "Light Ammo",
+          "Burn"
+        ],
+        "recommendedSetName": "Freeze Boost",
+        "substatPriority": [
+          "Attack Boost",
+          "Attack",
+          "Crit Rate",
+          "Critical Damage"
+        ],
+        "recommendedSetId": 15,
+        "recommendedSet": "Freeze Boost"
+      },
+      "builds": [
+        {
+          "setId": 15,
+          "mainStatId": null,
+          "substatIds": [
+            6,
+            1,
+            4,
+            5
+          ]
+        },
+        {
+          "setId": 7,
+          "mainStatId": null,
+          "substatIds": [
+            1,
+            4,
+            5,
+            6,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tololo",
+      "name": "Tololo",
+      "role": "Sentinel",
+      "rarity": 5,
+      "rarityLabel": "Elite",
+      "releaseOrder": 18,
+      "source": "https://gfl2.help/en/character/Tololo",
+      "images": {
+        "card": "./img/avatar/gl2/Avatar_Bust_TololoSSR.png",
+        "splash": "https://gfl2.help/static/images/chara/full/Tololo.png"
+      },
+      "details": {
+        "phase": "Hydro",
+        "attackTypes": [
+          "Medium Ammo"
+        ],
+        "attributes": [
+          "Medium Ammo",
+          "Hydro"
+        ],
+        "weaknesses": [
+          "Heavy Ammo",
+          "Electric"
+        ],
+        "recommendedSetName": "Phase Strike",
+        "substatPriority": [
+          "Attack Boost",
+          "Attack",
+          "Crit Rate",
+          "Critical Damage"
+        ],
+        "recommendedSetId": 9,
+        "recommendedSet": "Phase Strike"
+      },
+      "builds": [
+        {
+          "setId": 9,
+          "mainStatId": null,
+          "substatIds": [
+            6,
+            1,
+            4,
+            5
+          ]
+        },
+        {
+          "setId": 7,
+          "mainStatId": null,
+          "substatIds": [
+            1,
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "id": "papasha",
+      "name": "Papasha",
+      "role": "Sentinel",
+      "rarity": 5,
+      "rarityLabel": "Elite",
+      "releaseOrder": 17,
+      "source": "https://gfl2.help/en/character/Papasha",
+      "images": {
+        "card": "./img/avatar/gl2/Avatar_Bust_PapashaSSR.png",
+        "splash": "https://gfl2.help/static/images/chara/full/Papasha.png"
+      },
+      "details": {
+        "phase": "Physical",
+        "attackTypes": [
+          "Light Ammo"
+        ],
+        "attributes": [
+          "Light Ammo",
+          "Physical"
+        ],
+        "weaknesses": [
+          "Shotgun Ammo",
+          "Corrosion"
+        ],
+        "recommendedSetName": "Ballistic Boost",
+        "substatPriority": [
+          "Attack Boost",
+          "Attack",
+          "Crit Rate",
+          "Critical Damage"
+        ],
+        "recommendedSetId": 13,
+        "recommendedSet": "Ballistic Boost"
+      },
+      "builds": [
+        {
+          "setId": 13,
+          "mainStatId": null,
+          "substatIds": [
+            6,
+            1,
+            4,
+            5
+          ]
+        },
+        {
+          "setId": 7,
+          "mainStatId": null,
+          "substatIds": [
+            1,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ullrid",
+      "name": "Ullrid",
+      "role": "Vanguard",
+      "rarity": 5,
+      "rarityLabel": "Elite",
+      "releaseOrder": 16,
+      "source": "https://gfl2.help/en/character/Ullrid",
+      "images": {
+        "card": "./img/avatar/gl2/Avatar_Bust_UllridSSR.png",
+        "splash": "https://gfl2.help/static/images/chara/full/Ullrid.png"
+      },
+      "details": {
+        "phase": "Physical",
+        "attackTypes": [
+          "Melee",
+          "Light Ammo"
+        ],
+        "attributes": [
+          "Melee",
+          "Light Ammo",
+          "Physical"
+        ],
+        "weaknesses": [
+          "Heavy Ammo",
+          "Freeze"
+        ],
+        "recommendedSetName": "Ballistic Boost",
+        "substatPriority": [
+          "Attack Boost",
+          "Attack",
+          "Crit Rate",
+          "Critical Damage"
+        ],
+        "recommendedSetId": 13,
+        "recommendedSet": "Ballistic Boost"
+      },
+      "builds": [
+        {
+          "setId": 13,
+          "mainStatId": null,
+          "substatIds": [
+            6,
+            1,
+            4,
+            5
+          ]
+        },
+        {
+          "setId": 6,
+          "mainStatId": null,
+          "substatIds": [
+            1,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "id": "suomi",
+      "name": "Suomi",
+      "role": "Support",
+      "rarity": 5,
+      "rarityLabel": "Elite",
+      "releaseOrder": 15,
+      "source": "https://gfl2.help/en/character/Suomi",
+      "images": {
+        "card": "./img/avatar/gl2/Avatar_Bust_SuomiSSR.png",
+        "splash": "https://gfl2.help/static/images/chara/full/Suomi.png"
+      },
+      "details": {
+        "phase": "Freeze",
+        "attackTypes": [
+          "Light Ammo"
+        ],
+        "attributes": [
+          "Light Ammo",
+          "Freeze"
+        ],
+        "weaknesses": [
+          "Heavy Ammo",
+          "Corrosion"
+        ],
+        "recommendedSetName": "Phase Strike",
+        "substatPriority": [
+          "Attack Boost",
+          "Attack",
+          "Health Boost",
+          "Defense Boost"
+        ],
+        "recommendedSetId": 7,
+        "recommendedSet": "Ultimate Pursuit"
+      },
+      "builds": [
+        {
+          "setId": 7,
+          "mainStatId": null,
+          "substatIds": [
+            6,
+            1,
+            7,
+            8
+          ]
+        },
+        {
+          "setId": 12,
+          "mainStatId": null,
+          "substatIds": [
+            2,
+            7,
+            3,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "id": "qiongjiu",
+      "name": "Qiongjiu",
+      "role": "Sentinel",
+      "rarity": 5,
+      "rarityLabel": "Elite",
+      "releaseOrder": 14,
+      "source": "https://gfl2.help/en/character/Qiongjiu",
+      "images": {
+        "card": "./img/avatar/gl2/Avatar_Bust_QiongjiuSSR.png",
+        "splash": "https://gfl2.help/static/images/chara/full/Qiongjiu.png"
+      },
+      "details": {
+        "phase": "Burn",
+        "attackTypes": [
+          "Medium Ammo"
+        ],
+        "attributes": [
+          "Medium Ammo",
+          "Burn"
+        ],
+        "weaknesses": [
+          "Heavy Ammo",
+          "Freeze"
+        ],
+        "recommendedSetName": "Burn Boost",
+        "substatPriority": [
+          "Attack Boost",
+          "Attack",
+          "Crit Rate",
+          "Critical Damage"
+        ],
+        "recommendedSetId": 9,
+        "recommendedSet": "Phase Strike"
+      },
+      "builds": [
+        {
+          "setId": 9,
+          "mainStatId": null,
+          "substatIds": [
+            6,
+            1,
+            4,
+            5
+          ]
+        },
+        {
+          "setId": 7,
+          "mainStatId": null,
+          "substatIds": [
+            1,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sabrina",
+      "name": "Sabrina",
+      "role": "Bulwark",
+      "rarity": 5,
+      "rarityLabel": "Elite",
+      "releaseOrder": 13,
+      "source": "https://gfl2.help/en/character/Sabrina",
+      "images": {
+        "card": "./img/avatar/gl2/Avatar_Bust_SabrinaSSR.png",
+        "splash": "https://gfl2.help/static/images/chara/full/Sabrina.png"
+      },
+      "details": {
+        "phase": "Hydro",
+        "attackTypes": [
+          "Shotgun Ammo"
+        ],
+        "attributes": [
+          "Shotgun Ammo",
+          "Hydro"
+        ],
+        "weaknesses": [
+          "Heavy Ammo",
+          "Electric"
+        ],
+        "recommendedSetName": "Phase Strike",
+        "substatPriority": [
+          "Attack Boost",
+          "Defense Boost",
+          "Health Boost",
+          "Attack"
+        ],
+        "recommendedSetId": 12,
+        "recommendedSet": "Ally Support"
+      },
+      "builds": [
+        {
+          "setId": 12,
+          "mainStatId": null,
+          "substatIds": [
+            6,
+            8,
+            7,
+            1
+          ]
+        },
+        {
+          "setId": 5,
+          "mainStatId": null,
+          "substatIds": [
+            3,
+            2,
+            8,
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vepley",
+      "name": "Vepley",
+      "role": "Vanguard",
+      "rarity": 5,
+      "rarityLabel": "Elite",
+      "releaseOrder": 12,
+      "source": "https://gfl2.help/en/character/Vepley",
+      "images": {
+        "card": "./img/avatar/gl2/Avatar_Bust_VepleySSR.png",
+        "splash": "https://gfl2.help/static/images/chara/full/Vepley.png"
+      },
+      "details": {
+        "phase": "Physical",
+        "attackTypes": [
+          "Shotgun Ammo"
+        ],
+        "attributes": [
+          "Shotgun Ammo",
+          "Physical"
+        ],
+        "weaknesses": [
+          "Heavy Ammo",
+          "Hydro"
+        ],
+        "recommendedSetName": "Ballistic Boost",
+        "substatPriority": [
+          "Attack Boost",
+          "Attack",
+          "Crit Rate",
+          "Critical Damage"
+        ],
+        "recommendedSetId": 13,
+        "recommendedSet": "Ballistic Boost"
+      },
+      "builds": [
+        {
+          "setId": 13,
+          "mainStatId": null,
+          "substatIds": [
+            6,
+            1,
+            4,
+            5
+          ]
+        },
+        {
+          "setId": 6,
+          "mainStatId": null,
+          "substatIds": [
+            1,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "id": "peritya",
+      "name": "Peritya",
+      "role": "Sentinel",
+      "rarity": 5,
+      "rarityLabel": "Elite",
+      "releaseOrder": 11,
+      "source": "https://gfl2.help/en/character/Peritya",
+      "images": {
+        "card": "./img/avatar/gl2/Avatar_Bust_PerityaSSR.png",
+        "splash": "https://gfl2.help/static/images/chara/full/Peritya.png"
+      },
+      "details": {
+        "phase": "Corrosion",
+        "attackTypes": [
+          "Heavy Ammo"
+        ],
+        "attributes": [
+          "Heavy Ammo",
+          "Corrosion"
+        ],
+        "weaknesses": [
+          "Light Ammo",
+          "Hydro"
+        ],
+        "recommendedSetName": "Phase Strike",
+        "substatPriority": [
+          "Attack Boost",
+          "Attack",
+          "Crit Rate",
+          "Critical Damage"
+        ],
+        "recommendedSetId": 9,
+        "recommendedSet": "Phase Strike"
+      },
+      "builds": [
+        {
+          "setId": 9,
+          "mainStatId": null,
+          "substatIds": [
+            6,
+            1,
+            4,
+            5
+          ]
+        },
+        {
+          "setId": 7,
+          "mainStatId": null,
+          "substatIds": [
+            1,
+            4,
+            5,
+            6,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "id": "littara",
+      "name": "Littara",
+      "role": "Sentinel",
+      "rarity": 4,
+      "rarityLabel": "Standard",
+      "releaseOrder": 10,
+      "source": "https://gfl2.help/en/character/Littara",
+      "images": {
+        "card": "./img/avatar/gl2/Avatar_Bust_LittaraSR.png",
+        "splash": "https://gfl2.help/static/images/chara/full/Littara.png"
+      },
+      "details": {
+        "phase": "Physical",
+        "attackTypes": [
+          "Heavy Ammo"
+        ],
+        "attributes": [
+          "Heavy Ammo",
+          "Physical"
+        ],
+        "weaknesses": [
+          "Light Ammo",
+          "Burn"
+        ],
+        "recommendedSetName": "Ballistic Boost",
+        "substatPriority": [
+          "Attack Boost",
+          "Attack",
+          "Crit Rate",
+          "Critical Damage"
+        ],
+        "recommendedSetId": 9,
+        "recommendedSet": "Phase Strike"
+      },
+      "builds": [
+        {
+          "setId": 9,
+          "mainStatId": null,
+          "substatIds": [
+            6,
+            1,
+            4,
+            5
+          ]
+        },
+        {
+          "setId": 7,
+          "mainStatId": null,
+          "substatIds": [
+            1,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lotta",
+      "name": "Lotta",
+      "role": "Sentinel",
+      "rarity": 4,
+      "rarityLabel": "Standard",
+      "releaseOrder": 9,
+      "source": "https://gfl2.help/en/character/Lotta",
+      "images": {
+        "card": "./img/avatar/gl2/Avatar_Bust_LottaSR.png",
+        "splash": "https://gfl2.help/static/images/chara/full/Lotta.png"
+      },
+      "details": {
+        "phase": "Freeze",
+        "attackTypes": [
+          "Shotgun Ammo"
+        ],
+        "attributes": [
+          "Shotgun Ammo",
+          "Freeze"
+        ],
+        "weaknesses": [
+          "Medium Ammo",
+          "Burn"
+        ],
+        "recommendedSetName": "Freeze Boost",
+        "substatPriority": [
+          "Attack Boost",
+          "Attack",
+          "Crit Rate",
+          "Critical Damage"
+        ],
+        "recommendedSetId": 15,
+        "recommendedSet": "Freeze Boost"
+      },
+      "builds": [
+        {
+          "setId": 15,
+          "mainStatId": null,
+          "substatIds": [
+            6,
+            1,
+            4,
+            5
+          ]
+        },
+        {
+          "setId": 7,
+          "mainStatId": null,
+          "substatIds": [
+            1,
+            4,
+            5,
+            6,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sharkry",
+      "name": "Sharkry",
+      "role": "Sentinel",
+      "rarity": 4,
+      "rarityLabel": "Standard",
+      "releaseOrder": 8,
+      "source": "https://gfl2.help/en/character/Sharkry",
+      "images": {
+        "card": "./img/avatar/gl2/Avatar_Bust_SharkrySR.png",
+        "splash": "https://gfl2.help/static/images/chara/full/Sharkry.png"
+      },
+      "details": {
+        "phase": "Burn",
+        "attackTypes": [
+          "Medium Ammo"
+        ],
+        "attributes": [
+          "Medium Ammo",
+          "Burn"
+        ],
+        "weaknesses": [
+          "Medium Ammo",
+          "Corrosion"
+        ],
+        "recommendedSetName": "Phase Strike",
+        "substatPriority": [
+          "Attack Boost",
+          "Attack",
+          "Crit Rate",
+          "Critical Damage"
+        ],
+        "recommendedSetId": 9,
+        "recommendedSet": "Phase Strike"
+      },
+      "builds": [
+        {
+          "setId": 9,
+          "mainStatId": null,
+          "substatIds": [
+            6,
+            1,
+            4,
+            5
+          ]
+        },
+        {
+          "setId": 7,
+          "mainStatId": null,
+          "substatIds": [
+            1,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nagant",
+      "name": "Nagant",
+      "role": "Support",
+      "rarity": 4,
+      "rarityLabel": "Standard",
+      "releaseOrder": 7,
+      "source": "https://gfl2.help/en/character/Nagant",
+      "images": {
+        "card": "./img/avatar/gl2/Avatar_Bust_NagantSR.png",
+        "splash": "https://gfl2.help/static/images/chara/full/Nagant.png"
+      },
+      "details": {
+        "phase": "Corrosion",
+        "attackTypes": [
+          "Light Ammo"
+        ],
+        "attributes": [
+          "Light Ammo",
+          "Corrosion"
+        ],
+        "weaknesses": [
+          "Shotgun Ammo",
+          "Burn"
+        ],
+        "recommendedSetName": "Phase Strike",
+        "substatPriority": [
+          "Attack Boost",
+          "Attack",
+          "Crit Rate",
+          "Critical Damage"
+        ],
+        "recommendedSetId": 9,
+        "recommendedSet": "Phase Strike"
+      },
+      "builds": [
+        {
+          "setId": 9,
+          "mainStatId": null,
+          "substatIds": [
+            6,
+            1,
+            4,
+            5
+          ]
+        },
+        {
+          "setId": 12,
+          "mainStatId": null,
+          "substatIds": [
+            2,
+            7,
+            3,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "id": "colphne",
+      "name": "Colphne",
+      "role": "Support",
+      "rarity": 4,
+      "rarityLabel": "Standard",
+      "releaseOrder": 6,
+      "source": "https://gfl2.help/en/character/Colphne",
+      "images": {
+        "card": "./img/avatar/gl2/Avatar_Bust_ColphneSR.png",
+        "splash": "https://gfl2.help/static/images/chara/full/Colphne.png"
+      },
+      "details": {
+        "phase": "Hydro",
+        "attackTypes": [
+          "Light Ammo"
+        ],
+        "attributes": [
+          "Light Ammo",
+          "Hydro"
+        ],
+        "weaknesses": [
+          "Shotgun Ammo",
+          "Corrosion"
+        ],
+        "recommendedSetName": "Emergency Repair",
+        "substatPriority": [
+          "Attack Boost",
+          "Attack",
+          "Health Boost",
+          "Defense Boost"
+        ],
+        "recommendedSetId": 11,
+        "recommendedSet": "Emergency Repair"
+      },
+      "builds": [
+        {
+          "setId": 11,
+          "mainStatId": null,
+          "substatIds": [
+            6,
+            1,
+            7,
+            8
+          ]
+        },
+        {
+          "setId": 12,
+          "mainStatId": null,
+          "substatIds": [
+            2,
+            7,
+            3,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ksenia",
+      "name": "Ksenia",
+      "role": "Support",
+      "rarity": 4,
+      "rarityLabel": "Standard",
+      "releaseOrder": 5,
+      "source": "https://gfl2.help/en/character/Ksenia",
+      "images": {
+        "card": "./img/avatar/gl2/Avatar_Bust_KseniaSR.png",
+        "splash": "https://gfl2.help/static/images/chara/full/Ksenia.png"
+      },
+      "details": {
+        "phase": "Burn",
+        "attackTypes": [
+          "Light Ammo"
+        ],
+        "attributes": [
+          "Light Ammo",
+          "Burn"
+        ],
+        "weaknesses": [
+          "Shotgun Ammo",
+          "Burn"
+        ],
+        "recommendedSetName": "Emergency Repair",
+        "substatPriority": [
+          "Attack Boost",
+          "Attack",
+          "Health Boost",
+          "Defense Boost"
+        ],
+        "recommendedSetId": 11,
+        "recommendedSet": "Emergency Repair"
+      },
+      "builds": [
+        {
+          "setId": 11,
+          "mainStatId": null,
+          "substatIds": [
+            6,
+            1,
+            7,
+            8
+          ]
+        },
+        {
+          "setId": 12,
+          "mainStatId": null,
+          "substatIds": [
+            2,
+            7,
+            3,
+            8,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cheeta",
+      "name": "Cheeta",
+      "role": "Support",
+      "rarity": 4,
+      "rarityLabel": "Standard",
+      "releaseOrder": 4,
+      "source": "https://gfl2.help/en/character/Cheeta",
+      "images": {
+        "card": "./img/avatar/gl2/Avatar_Bust_CheetaSR.png",
+        "splash": "https://gfl2.help/static/images/chara/full/Cheeta.png"
+      },
+      "details": {
+        "phase": "Burn",
+        "attackTypes": [
+          "Light Ammo"
+        ],
+        "attributes": [
+          "Light Ammo",
+          "Burn"
+        ],
+        "weaknesses": [
+          "Medium Ammo",
+          "Hydro"
+        ],
+        "recommendedSetName": "Phase Strike",
+        "substatPriority": [
+          "Attack Boost",
+          "Attack",
+          "Health Boost",
+          "Defense Boost"
+        ],
+        "recommendedSetId": 14,
+        "recommendedSet": "Burn Boost"
+      },
+      "builds": [
+        {
+          "setId": 14,
+          "mainStatId": null,
+          "substatIds": [
+            6,
+            1,
+            7,
+            8
+          ]
+        },
+        {
+          "setId": 12,
+          "mainStatId": null,
+          "substatIds": [
+            2,
+            7,
+            3,
+            8,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "krolik",
+      "name": "Krolik",
+      "role": "Vanguard",
+      "rarity": 4,
+      "rarityLabel": "Standard",
+      "releaseOrder": 3,
+      "source": "https://gfl2.help/en/character/Krolik",
+      "images": {
+        "card": "./img/avatar/gl2/Avatar_Bust_CharolicSR.png",
+        "splash": "https://gfl2.help/static/images/chara/full/Krolik.png"
+      },
+      "details": {
+        "phase": "Burn",
+        "attackTypes": [
+          "Melee"
+        ],
+        "attributes": [
+          "Melee",
+          "Burn"
+        ],
+        "weaknesses": [
+          "Shotgun Ammo",
+          "Corrosion"
+        ],
+        "recommendedSetName": "Phase Strike",
+        "substatPriority": [
+          "Attack Boost",
+          "Attack",
+          "Crit Rate",
+          "Critical Damage"
+        ],
+        "recommendedSetId": 9,
+        "recommendedSet": "Phase Strike"
+      },
+      "builds": [
+        {
+          "setId": 9,
+          "mainStatId": null,
+          "substatIds": [
+            6,
+            1,
+            4,
+            5
+          ]
+        },
+        {
+          "setId": 6,
+          "mainStatId": null,
+          "substatIds": [
+            1,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nemesis",
+      "name": "Nemesis",
+      "role": "Sentinel",
+      "rarity": 4,
+      "rarityLabel": "Standard",
+      "releaseOrder": 2,
+      "source": "https://gfl2.help/en/character/Nemesis",
+      "images": {
+        "card": "./img/avatar/gl2/Avatar_Bust_NemesisSR.png",
+        "splash": "https://gfl2.help/static/images/chara/full/Nemesis.png"
+      },
+      "details": {
+        "phase": "Corrosion",
+        "attackTypes": [
+          "Heavy Ammo"
+        ],
+        "attributes": [
+          "Heavy Ammo",
+          "Corrosion"
+        ],
+        "weaknesses": [
+          "Light Ammo",
+          "Hydro"
+        ],
+        "recommendedSetName": "Phase Strike",
+        "substatPriority": [
+          "Attack Boost",
+          "Attack",
+          "Crit Rate",
+          "Critical Damage"
+        ],
+        "recommendedSetId": 9,
+        "recommendedSet": "Phase Strike"
+      },
+      "builds": [
+        {
+          "setId": 9,
+          "mainStatId": null,
+          "substatIds": [
+            6,
+            1,
+            4,
+            5
+          ]
+        },
+        {
+          "setId": 7,
+          "mainStatId": null,
+          "substatIds": [
+            1,
+            4,
+            5,
+            6,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "id": "groza",
+      "name": "Groza",
+      "role": "Bulwark",
+      "rarity": 4,
+      "rarityLabel": "Standard",
+      "releaseOrder": 1,
+      "source": "https://gfl2.help/en/character/Groza",
+      "images": {
+        "card": "./img/avatar/gl2/Avatar_Bust_GrozaSR.png",
+        "splash": "https://gfl2.help/static/images/chara/full/Groza.png"
+      },
+      "details": {
+        "phase": "Physical",
+        "attackTypes": [
+          "Medium Ammo"
+        ],
+        "attributes": [
+          "Medium Ammo",
+          "Physical"
+        ],
+        "weaknesses": [
+          "Heavy Ammo",
+          "Burn"
+        ],
+        "recommendedSetName": "Ally Support",
+        "substatPriority": [
+          "Attack Boost",
+          "Health Boost",
+          "Defense Boost",
+          "Attack"
+        ],
+        "recommendedSetId": 12,
+        "recommendedSet": "Ally Support"
+      },
+      "builds": [
+        {
+          "setId": 12,
+          "mainStatId": null,
+          "substatIds": [
+            6,
+            8,
+            7,
+            1
+          ]
+        },
+        {
+          "setId": 5,
+          "mainStatId": null,
+          "substatIds": [
+            3,
+            2,
+            8,
+            7,
+            5
+          ]
+        }
+      ]
+    }
+  ],
+  "catalogs": {
+    "sets": "./data/gf2-sets.json",
+    "stats": "./data/gf2-stats.json"
+  }
+}

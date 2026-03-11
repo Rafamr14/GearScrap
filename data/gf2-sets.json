@@ -1,0 +1,84 @@
+{
+  "game": {
+    "id": "gf2",
+    "name": "Girls' Frontline 2"
+  },
+  "kind": "sets",
+  "items": [
+    {
+      "id": 1,
+      "name": "Corrosion Boost",
+      "image": "https://gfl2.help/static/images/Corrosion%20Boost.png"
+    },
+    {
+      "id": 2,
+      "name": "Electric Boost",
+      "image": "https://gfl2.help/static/images/Electric%20Boost.png"
+    },
+    {
+      "id": 3,
+      "name": "Hydro Boost",
+      "image": "https://gfl2.help/static/images/Hydro%20Boost.png"
+    },
+    {
+      "id": 4,
+      "name": "Tactical Calculus",
+      "image": ""
+    },
+    {
+      "id": 5,
+      "name": "Shielded Recovery",
+      "image": ""
+    },
+    {
+      "id": 6,
+      "name": "Close Assault",
+      "image": ""
+    },
+    {
+      "id": 7,
+      "name": "Ultimate Pursuit",
+      "image": "https://gfl2.help/static/images/Ultimate%20Pursuit.png"
+    },
+    {
+      "id": 8,
+      "name": "Double Strategy",
+      "image": "https://gfl2.help/static/images/Double%20Strategy.png"
+    },
+    {
+      "id": 9,
+      "name": "Phase Strike",
+      "image": "https://gfl2.help/static/images/Phase%20Strike.png"
+    },
+    {
+      "id": 10,
+      "name": "Phase Resonance",
+      "image": "https://gfl2.help/static/images/Phase%20Resonance.png"
+    },
+    {
+      "id": 11,
+      "name": "Emergency Repair",
+      "image": "https://gfl2.help/static/images/Emergency%20Repair.png"
+    },
+    {
+      "id": 12,
+      "name": "Ally Support",
+      "image": "https://gfl2.help/static/images/Ally%20Support.png"
+    },
+    {
+      "id": 13,
+      "name": "Ballistic Boost",
+      "image": "https://gfl2.help/static/images/Ballistic%20Boost.png"
+    },
+    {
+      "id": 14,
+      "name": "Burn Boost",
+      "image": "https://gfl2.help/static/images/Burn%20Boost.png"
+    },
+    {
+      "id": 15,
+      "name": "Freeze Boost",
+      "image": "https://gfl2.help/static/images/Freeze%20Boost.png"
+    }
+  ]
+}

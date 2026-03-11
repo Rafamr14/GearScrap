@@ -1,0 +1,57 @@
+{
+  "game": {
+    "id": "gf2",
+    "name": "Girls' Frontline 2"
+  },
+  "kind": "stats",
+  "items": [
+    {
+      "id": 1,
+      "name": "Attack",
+      "short": "ATK",
+      "tone": "atk"
+    },
+    {
+      "id": 2,
+      "name": "Health",
+      "short": "HP",
+      "tone": "hp"
+    },
+    {
+      "id": 3,
+      "name": "Defense",
+      "short": "DEF",
+      "tone": "def"
+    },
+    {
+      "id": 4,
+      "name": "Crit Rate",
+      "short": "CR",
+      "tone": "crit"
+    },
+    {
+      "id": 5,
+      "name": "Critical Damage",
+      "short": "CD",
+      "tone": "crit"
+    },
+    {
+      "id": 6,
+      "name": "Attack Boost",
+      "short": "ATK%",
+      "tone": "atk"
+    },
+    {
+      "id": 7,
+      "name": "Health Boost",
+      "short": "HP%",
+      "tone": "hp"
+    },
+    {
+      "id": 8,
+      "name": "Defense Boost",
+      "short": "DEF%",
+      "tone": "def"
+    }
+  ]
+}

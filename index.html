@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#243a57" />
+    <title>Build Finder</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&family=Material+Symbols+Rounded:FILL@1&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body data-game-theme="gf2">
+    <div class="md-bg-orb md-bg-orb-a"></div>
+    <div class="md-bg-orb md-bg-orb-b"></div>
+    <div id="filtersScrim" class="filters-scrim hidden"></div>
+
+    <header class="app-top-bar">
+      <div class="top-bar-inner">
+        <a class="brand-link" href="./index.html">
+          <span class="material-symbols-rounded" aria-hidden="true">token</span>
+          <span>Build Finder</span>
+        </a>
+
+        <div class="top-bar-actions">
+          <button
+            id="mobileFiltersToggleBtn"
+            type="button"
+            class="md-button md-icon-button mobile-filter-toggle"
+            aria-label="Abrir filtros"
+          >
+            <span class="material-symbols-rounded" aria-hidden="true">tune</span>
+          </button>
+          <a href="./admin.html" class="md-button md-button-tonal">
+            <span class="material-symbols-rounded" aria-hidden="true">edit_square</span>
+            Gestionar personajes
+          </a>
+        </div>
+      </div>
+    </header>
+
+    <main class="page-shell">
+      <select id="gameSelector" class="visually-hidden" aria-hidden="true" tabindex="-1">
+        <option value="gf2">Girls' Frontline 2</option>
+        <option value="genshin">Genshin Impact</option>
+      </select>
+
+      <nav id="finderTabs" class="segmented-tabs" role="tablist" aria-label="Cambiar de juego">
+        <button
+          type="button"
+          class="segmented-tab active"
+          id="gf2Tab"
+          role="tab"
+          aria-selected="true"
+          aria-controls="gf2View"
+          data-game-tab="gf2"
+        >
+          <span class="material-symbols-rounded" aria-hidden="true">counter_2</span>
+          Girls' Frontline 2
+        </button>
+        <button
+          type="button"
+          class="segmented-tab"
+          id="genshinTab"
+          role="tab"
+          aria-selected="false"
+          aria-controls="genshinView"
+          data-game-tab="genshin"
+        >
+          <span class="material-symbols-rounded" aria-hidden="true">history</span>
+          Genshin Impact
+        </button>
+      </nav>
+
+      <section id="gf2View" class="page-view" role="tabpanel" aria-labelledby="gf2Tab">
+
+        <div class="finder-layout">
+          <aside id="gf2FiltersPanel" class="filters-stack" data-filter-sheet="gf2">
+            <div class="filters-sheet-header">
+              <div>
+                <p class="eyebrow">Filtros</p>
+                <h2>Girls' Frontline 2</h2>
+              </div>
+              <button type="button" class="md-button md-icon-button" data-close-filters aria-label="Cerrar filtros">
+                <span class="material-symbols-rounded" aria-hidden="true">close</span>
+              </button>
+            </div>
+
+            <article class="md-surface section-panel">
+              <div class="section-head">
+                <h2>Set</h2>
+                <p>Selecciona uno</p>
+              </div>
+              <div id="gf2SetsRoot" class="chips-wrap"></div>
+            </article>
+
+            <article class="md-surface section-panel">
+              <div class="section-head">
+                <h2>Substats</h2>
+                <p>Puedes marcar varias</p>
+              </div>
+              <div id="gf2SubstatsRoot" class="chips-wrap"></div>
+              <div class="panel-footer">
+                <p id="gf2SelectionSummary" class="selection-summary"></p>
+                <button id="gf2ClearFiltersBtn" class="md-button md-button-filled" type="button">
+                  <span class="material-symbols-rounded" aria-hidden="true">restart_alt</span>
+                  Limpiar filtros
+                </button>
+              </div>
+            </article>
+          </aside>
+
+          <section class="results-column">
+            <span id="gf2ResultsCount" class="results-count"></span>
+
+            <section id="gf2CharacterGrid" class="character-grid"></section>
+
+            <section id="gf2EmptyState" class="md-surface empty-state hidden">
+              <h2>Sin coincidencias</h2>
+              <p>Prueba con otro set o reduce la cantidad de substats seleccionadas.</p>
+            </section>
+          </section>
+        </div>
+      </section>
+
+      <section
+        id="genshinView"
+        class="page-view hidden"
+        role="tabpanel"
+        aria-labelledby="genshinTab"
+      >
+        <header class="page-hero md-surface">
+          <div>
+            <p class="eyebrow">Genshin Impact</p>
+            <h1>Buscador de artefactos</h1>
+            <p class="subtitle">
+              Elige un set y ordena las stats como quieres filtrarlas: la primera sera la principal y el resto se tratara como substats.
+            </p>
+          </div>
+        </header>
+
+        <div class="finder-layout">
+          <aside id="genshinFiltersPanel" class="filters-stack" data-filter-sheet="genshin">
+            <div class="filters-sheet-header">
+              <div>
+                <p class="eyebrow">Filtros</p>
+                <h2>Genshin</h2>
+              </div>
+              <button type="button" class="md-button md-icon-button" data-close-filters aria-label="Cerrar filtros">
+                <span class="material-symbols-rounded" aria-hidden="true">close</span>
+              </button>
+            </div>
+
+            <article class="md-surface section-panel">
+              <div class="section-head">
+                <h2>Sets</h2>
+                <p>Todos los sets con su imagen</p>
+              </div>
+              <div id="genshinSetsRoot" class="artifact-chip-grid"></div>
+            </article>
+
+            <article class="md-surface section-panel">
+              <div class="section-head">
+                <h2>Stats</h2>
+                <p>La primera seleccionada es la principal. Las siguientes cuentan como substats.</p>
+              </div>
+              <div id="genshinStatsRoot" class="chips-wrap"></div>
+              <div class="panel-footer">
+                <p id="genshinSelectionSummary" class="selection-summary"></p>
+                <button id="clearFiltersBtn" class="md-button md-button-filled" type="button">
+                  <span class="material-symbols-rounded" aria-hidden="true">restart_alt</span>
+                  Limpiar filtros
+                </button>
+              </div>
+            </article>
+          </aside>
+
+          <section class="results-column">
+            <article class="md-surface results-toolbar">
+              <div>
+                <p class="eyebrow">Resultados</p>
+                <h2>Personajes compatibles</h2>
+              </div>
+              <span id="resultsCount" class="results-count"></span>
+            </article>
+
+            <section id="characterGrid" class="character-grid"></section>
+
+            <section id="emptyState" class="md-surface empty-state hidden">
+              <h2>Sin coincidencias</h2>
+              <p>Prueba con otro set, cambia la stat principal o reduce las substats.</p>
+            </section>
+          </section>
+        </div>
+      </section>
+    </main>
+
+    <template id="characterCardTemplate">
+      <article class="character-card">
+        <img class="character-image" loading="lazy" />
+        <div class="character-body">
+          <div class="character-head">
+            <h3 class="character-name"></h3>
+            <span class="character-role"></span>
+          </div>
+          <p class="character-meta"></p>
+          <div class="build-highlight">
+            <p class="build-set"></p>
+            <p class="build-stats"></p>
+          </div>
+        </div>
+      </article>
+    </template>
+
+    <div id="characterModal" class="character-modal hidden" aria-hidden="true">
+      <div id="characterModalScrim" class="character-modal-scrim"></div>
+      <section
+        class="character-modal-sheet md-surface"
+        role="dialog"
+        aria-modal="true"
+        aria-labelledby="characterModalTitle"
+      >
+        <button
+          id="characterModalCloseBtn"
+          type="button"
+          class="md-button md-icon-button character-modal-close"
+          aria-label="Cerrar ficha de personaje"
+        >
+          <span class="material-symbols-rounded" aria-hidden="true">close</span>
+        </button>
+
+        <div class="character-modal-layout">
+          <div class="character-modal-media">
+            <img id="characterModalImage" class="character-modal-image" alt="" />
+          </div>
+
+          <div class="character-modal-content">
+            <div class="character-modal-header">
+              <p id="characterModalGame" class="eyebrow"></p>
+              <h2 id="characterModalTitle"></h2>
+              <p id="characterModalMeta" class="character-modal-meta"></p>
+            </div>
+
+            <div id="characterModalSummary" class="character-modal-summary"></div>
+
+            <section class="character-modal-section">
+              <div class="section-head">
+                <h3>Builds recomendadas</h3>
+                <p>Sets, principal y substats desde el dataset</p>
+              </div>
+              <div id="characterModalBuilds" class="character-modal-builds"></div>
+            </section>
+
+            <a
+              id="characterModalSource"
+              class="md-button md-button-outlined hidden"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <span class="material-symbols-rounded" aria-hidden="true">open_in_new</span>
+              Ver fuente
+            </a>
+          </div>
+        </div>
+      </section>
+    </div>
+
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>

@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#243a57" />
+    <title>Build Finder | Admin</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&family=Material+Symbols+Rounded:FILL@1&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body data-game-theme="gf2">
+    <div class="md-bg-orb md-bg-orb-a"></div>
+    <div class="md-bg-orb md-bg-orb-b"></div>
+
+    <header class="app-top-bar">
+      <div class="top-bar-inner">
+        <a class="brand-link" href="./admin.html">
+          <span class="material-symbols-rounded" aria-hidden="true">tune</span>
+          <span>Build Finder Admin</span>
+        </a>
+
+        <div class="top-bar-actions">
+          <a href="./index.html" class="md-button md-button-tonal">
+            <span class="material-symbols-rounded" aria-hidden="true">home</span>
+            Volver a la web
+          </a>
+        </div>
+      </div>
+    </header>
+
+    <main class="page-shell">
+      <nav id="adminTabs" class="segmented-tabs" role="group" aria-label="Cambiar dataset">
+        <button type="button" class="segmented-tab active" aria-pressed="true" data-admin-game-tab="gf2">
+          <span class="material-symbols-rounded" aria-hidden="true">counter_2</span>
+          Dataset GF2
+        </button>
+        <button type="button" class="segmented-tab" aria-pressed="false" data-admin-game-tab="genshin">
+          <span class="material-symbols-rounded" aria-hidden="true">history</span>
+          Dataset Genshin
+        </button>
+      </nav>
+
+      <header class="page-hero md-surface admin-hero">
+        <div>
+          <p class="eyebrow">Administración</p>
+          <h1>Gestión de personajes y builds</h1>
+          <p class="subtitle">
+            Edita el dataset activo y guarda cambios en localStorage del navegador.
+          </p>
+        </div>
+      </header>
+
+      <div class="admin-layout">
+        <section class="admin-main-column">
+          <article class="md-surface section-panel dataset-panel">
+            <div class="section-head section-head-split">
+              <div>
+                <h2 id="adminTitle">Editor de personajes</h2>
+                <p class="section-note">
+                  Los cambios se guardan en <code>localStorage</code> y se pueden restaurar al estado base.
+                </p>
+              </div>
+              <div class="inline-actions">
+                <button id="addCharacterBtn" type="button" class="md-button md-button-filled">
+                  <span class="material-symbols-rounded" aria-hidden="true">person_add</span>
+                  Añadir personaje
+                </button>
+                <button id="resetGameBtn" type="button" class="md-button md-button-outlined danger">
+                  <span class="material-symbols-rounded" aria-hidden="true">delete_sweep</span>
+                  Restaurar por defecto
+                </button>
+              </div>
+            </div>
+
+            <p id="adminStatus" class="admin-status" role="status" aria-live="polite"></p>
+
+            <div class="table-wrap">
+              <table class="md-table">
+                <thead>
+                  <tr>
+                    <th>Nombre</th>
+                    <th>Rol</th>
+                    <th>Dato extra</th>
+                    <th>Builds</th>
+                    <th>Acciones</th>
+                  </tr>
+                </thead>
+                <tbody id="charactersTableBody"></tbody>
+              </table>
+            </div>
+          </article>
+        </section>
+
+        <aside class="admin-form-column">
+          <section class="md-surface section-panel form-panel">
+            <div class="section-head">
+              <h2 id="formTitle">Nuevo personaje</h2>
+              <p>Completa el formulario para crear o editar un personaje.</p>
+            </div>
+
+            <form id="characterForm" class="admin-form">
+              <div class="form-grid">
+                <label class="md-field-group" for="idInput">
+                  <span class="md-field-label">ID</span>
+                  <input id="idInput" class="md-input" required />
+                </label>
+
+                <label class="md-field-group" for="nameInput">
+                  <span class="md-field-label">Nombre</span>
+                  <input id="nameInput" class="md-input" required />
+                </label>
+
+                <label id="gf2RoleField" class="md-field-group" for="gf2RoleInput">
+                  <span class="md-field-label">Rol (GF2)</span>
+                  <select id="gf2RoleInput" class="md-select"></select>
+                </label>
+
+                <label id="genshinRoleField" class="md-field-group hidden" for="roleInput">
+                  <span class="md-field-label">Rol (Genshin)</span>
+                  <input id="roleInput" class="md-input" />
+                </label>
+
+                <label class="md-field-group" for="imageInput">
+                  <span class="md-field-label">Imagen de card</span>
+                  <input id="imageInput" class="md-input" required />
+                </label>
+
+                <label class="md-field-group" for="splashImageInput">
+                  <span class="md-field-label">Splash image</span>
+                  <input id="splashImageInput" class="md-input" required />
+                </label>
+
+                <label class="md-field-group" for="sourceInput">
+                  <span class="md-field-label">Fuente (opcional)</span>
+                  <input id="sourceInput" class="md-input" />
+                </label>
+
+                <label class="md-field-group" for="rarityInput">
+                  <span class="md-field-label">Rareza</span>
+                  <input id="rarityInput" class="md-input" type="number" min="1" max="5" required />
+                </label>
+
+                <label class="md-field-group" for="releaseOrderInput">
+                  <span class="md-field-label">Orden de salida</span>
+                  <input id="releaseOrderInput" class="md-input" type="number" min="1" required />
+                </label>
+              </div>
+
+              <div id="gf2Fields" class="md-subpanel">
+                <h3 class="md-subpanel-title">Opciones GF2</h3>
+
+                <div class="form-grid">
+                  <label class="md-field-group" for="phaseInput">
+                    <span class="md-field-label">Phase</span>
+                    <select id="phaseInput" class="md-select"></select>
+                  </label>
+
+                  <label class="md-field-group" for="attackTypesInput">
+                    <span class="md-field-label">Tipos de ataque</span>
+                    <select id="attackTypesInput" class="md-multi-select" multiple size="6"></select>
+                  </label>
+                </div>
+                <p class="helper-text">Mantén pulsado Ctrl/Cmd para seleccionar varios tipos de ataque.</p>
+              </div>
+
+              <div id="genshinFields" class="md-subpanel hidden">
+                <h3 class="md-subpanel-title">Opciones Genshin</h3>
+                <label class="md-field-group" for="elementInput">
+                  <span class="md-field-label">Elemento</span>
+                  <select id="elementInput" class="md-select"></select>
+                </label>
+              </div>
+
+              <div id="gf2BuildEditor" class="md-subpanel">
+                <h3 class="md-subpanel-title">Builds GF2 (1 o 2)</h3>
+
+                <label class="md-field-group" for="gf2BuildCount">
+                  <span class="md-field-label">Cantidad de builds</span>
+                  <select id="gf2BuildCount" class="md-select">
+                    <option value="1">1 build</option>
+                    <option value="2">2 builds</option>
+                  </select>
+                </label>
+
+                <div class="build-editor-grid">
+                  <article id="gf2Build1Card" class="build-editor-card">
+                    <h3>Build 1</h3>
+                    <label class="md-field-group" for="gf2Build1Set">
+                      <span class="md-field-label">Set</span>
+                      <select id="gf2Build1Set" class="md-select"></select>
+                    </label>
+                    <label class="md-field-group" for="gf2Build1Substats">
+                      <span class="md-field-label">Substats</span>
+                      <select id="gf2Build1Substats" class="md-multi-select" multiple size="8"></select>
+                    </label>
+                  </article>
+
+                  <article id="gf2Build2Card" class="build-editor-card hidden">
+                    <h3>Build 2</h3>
+                    <label class="md-field-group" for="gf2Build2Set">
+                      <span class="md-field-label">Set</span>
+                      <select id="gf2Build2Set" class="md-select"></select>
+                    </label>
+                    <label class="md-field-group" for="gf2Build2Substats">
+                      <span class="md-field-label">Substats</span>
+                      <select id="gf2Build2Substats" class="md-multi-select" multiple size="8"></select>
+                    </label>
+                  </article>
+                </div>
+
+                <p class="helper-text">Las builds se editan solo con selectores para evitar JSON manual.</p>
+              </div>
+
+              <div id="genshinBuildEditor" class="md-subpanel hidden">
+                <h3 class="md-subpanel-title">Builds Genshin (JSON)</h3>
+                <label class="md-field-group" for="buildsInput">
+                  <span class="md-field-label">Builds (JSON array)</span>
+                  <textarea id="buildsInput" class="md-textarea"></textarea>
+                </label>
+              </div>
+
+              <div class="form-actions">
+                <button type="submit" class="md-button md-button-filled">
+                  <span class="material-symbols-rounded" aria-hidden="true">save</span>
+                  Guardar personaje
+                </button>
+                <button id="cancelEditBtn" type="button" class="md-button md-button-outlined">
+                  <span class="material-symbols-rounded" aria-hidden="true">close</span>
+                  Cancelar edición
+                </button>
+              </div>
+            </form>
+          </section>
+        </aside>
+      </div>
+    </main>
+
+    <div id="characterModal" class="character-modal hidden" aria-hidden="true">
+      <div id="characterModalScrim" class="character-modal-scrim"></div>
+      <section
+        class="character-modal-sheet md-surface"
+        role="dialog"
+        aria-modal="true"
+        aria-labelledby="characterModalTitle"
+      >
+        <button
+          id="characterModalCloseBtn"
+          type="button"
+          class="md-button md-icon-button character-modal-close"
+          aria-label="Cerrar ficha de personaje"
+        >
+          <span class="material-symbols-rounded" aria-hidden="true">close</span>
+        </button>
+
+        <div class="character-modal-layout">
+          <div class="character-modal-media">
+            <img id="characterModalImage" class="character-modal-image" alt="" />
+          </div>
+
+          <div class="character-modal-content">
+            <div class="character-modal-header">
+              <p id="characterModalGame" class="eyebrow"></p>
+              <h2 id="characterModalTitle"></h2>
+              <p id="characterModalMeta" class="character-modal-meta"></p>
+            </div>
+
+            <div id="characterModalSummary" class="character-modal-summary"></div>
+
+            <section class="character-modal-section">
+              <div class="section-head">
+                <h3>Builds recomendadas</h3>
+                <p>Sets, principal y substats desde el dataset</p>
+              </div>
+              <div id="characterModalBuilds" class="character-modal-builds"></div>
+            </section>
+
+            <a
+              id="characterModalSource"
+              class="md-button md-button-outlined hidden"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <span class="material-symbols-rounded" aria-hidden="true">open_in_new</span>
+              Ver fuente
+            </a>
+          </div>
+        </div>
+      </section>
+    </div>
+
+    <script type="module" src="./admin.js"></script>
+  </body>
+</html>
